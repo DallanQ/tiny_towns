@@ -1,6 +1,4 @@
 
-
-
 ## Setup
 
 1. Give each player a player board.
@@ -35,7 +33,7 @@ There are 5 different resources:
 
 10. Shuffle the Monument cards and deal each player 2 Monument cards face-down, which they should look at but keep secret. Players should select 1 Monument card to keep and discard the other to the box, face-down.
 
-11. Give each player 1 wooden monument ( which they should keep next to their Monument card. Return any remaining monuments to the box — they will not be available to players in this game. For your first game, you may want to play without monuments.
+11. Give each player 1 wooden monument, which they should keep next to their Monument card. Return any remaining monuments to the box — they will not be available to players in this game. For your first game, you may want to play without monuments.
 
 recommended cards for first play
 
@@ -55,27 +53,15 @@ recommended cards for first play
 
 A monument is a special type of building that can only be constructed by the player holding that card. Players may only construct their monuments once. Monuments may be constructed in any round, just like a normal building (see Building Construction Rules). Upon constructing a monument, the player should read the Monument card aloud, place it face-up in front of them, and resolve any immediate effects. If the card grants an ability, that ability takes effect immediately and only applies to the card's holder. Scoring for Monument cards is resolved at game end. Monuments are not a part of the general supply.
 
-## A
+> An image with the letter A,B,C,D,E around it, called Architects Guild.
 
-## B
+### Building card anatomy
 
-## C
-
-8
-
-## D
-
-6
-
-1 1
-
-10
-
-## E
-
-building card anatomy
-
-A. Card Title B. Building Type C. Art D. Resource Build Pattern E. Building Ability/Scoring
+- A. Card Title
+- B. Building Type
+- C. Art
+- D. Resource Build Pattern
+- E. Building Ability/Scoring
 
 3
 
