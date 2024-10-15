@@ -1,25 +1,5 @@
 
-## Peter Mcpherson
 
-§elcome! You are the mayor of a tiny town in the forest, where the smaller creatures of the woods have created a civilization hidden away from predators. This new land is small and the resources are scarce — you take what you can get and never say no to building materials. Cleverly plan and construct a thriving town, and don't let it fill up with wasted resources!
-
-Whoever builds the most prosperous tiny town wins!
-
-objective Your town is represented by a 4x4 grid, on which you will place Resource cubes in specific layouts to construct buildings. Each building scores Victory ) in a unique way. When no Points ( player can place any more resources or construct any buildings, the game ends, and any squares without a building are worth -1
-
-.
-
-## The Player With The Most
-
-## Wins!
-
-contents • 1 rulebook • 6 player boards • 25 Building cards • 15 Monument cards • 15 Resource cards • 1 scorepad
-
-126 wooden buildings • 1 wooden Master Builder hammer
-
-6 wooden monuments • 90 wooden Resource cubes
-
-A GAME BY PETER MCPHERSON, FOR 1-6 PLAYERS, AGES 14 AND UP.
 
 ## Setup
 
