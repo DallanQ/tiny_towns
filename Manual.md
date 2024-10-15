@@ -7,11 +7,7 @@
 
 2. Leave the Resource cards in the box (unless you are playing the Town Hall rules or Solo variant).
 
-3. Place the Cottage card (with the
-
-## Symbol On
-
-## The Back) Face-Up In The Center Of The Table.
+3. Place the Cottage card (with the Symbol On the Back) Face-Up In The Center Of the table.
 
 4. Sort the remaining Building cards into separate piles by the symbols on the back.
 
@@ -25,13 +21,15 @@
 
 There are 5 different resources:
 
-## Wood Wheat
+> Wood
 
-## Brick
+> Wheat
 
-## Glass
+> Brick
 
-## Stone
+> Glass
+
+> Stone
 
 9. The starting player is the player who most recently constructed something (in real life). Give that player the Master Builder hammer.
 
