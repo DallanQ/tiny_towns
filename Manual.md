@@ -34,17 +34,21 @@ There are 5 different resources:
 
 11. Give each player 1 wooden monument, which they should keep next to their Monument card. Return any remaining monuments to the box — they will not be available to players in this game. For your first game, you may want to play without monuments.
 
-### recommended cards for first play
+### recommended cards for first play (page 2)
 
-9
+> Cottage
 
-3
+> Chapel
 
-8
+> Farm
 
-1
+> Tavern
 
-2
+> Well
+
+> Theater
+
+> Factory
 
 ## Monuments (page 3)
 
@@ -112,31 +116,22 @@ Players cannot construct a building immediately after a resource has been named 
 
 ### Building Construction Example (page 4)
 
-> An image of a card having a Chapel on it.
+> An image of Chapel.
 
-> An image of a piece of land sectioned in boxes. an arrow pointing to the third row in the second column.
-
+> An image of placing a blue cube between 2 grey cubes and another blue cube.
 If John places a blue Resource cube here, he may choose to construct a Chapel.
 
-> An image of the same piece of land, with the blue resource cube moved to the pointed arrow.
-
+> An image of the blue cube placed.
 BLAM! Now John is ready to construct a Chapel.
 
-> An image of the same piece of land, but all empty.
- 
-John removes the 4 cubes and can place the wooden Chapel in any of the squares they occupied. He chooses the rightmost square. Resources and other buildings may no longer be placed in that square.
+> An image of all the cubes(blue and grey) removed.
+ John removes the 4 cubes and can place the wooden Chapel in any of the squares they occupied. He chooses the rightmost square. Resources and other buildings may no longer be placed in that square.
 
-## And This.
+> Arranging the 4 cubes in between each other; a blue cube, then a grey cube then a blue cube then a grey cube.
+This is allowed, since the configuration of the cubes matches the Chapel card.
 
-
-
-## And Even This.
-
-
-
-
-
-But not this, since the configuration of the cubes does not match the Chapel card.
+> Image of the 4 cubes not between each other.
+This isnt allowed, since the configuration of the cubes does not match the Chapel card.
 
 ### Feeding your cottages (page 5)
 
@@ -170,22 +165,22 @@ Buildings Never Score points On Their Own.
 ## Scoring Example
 
 Playing without monuments, this board would score:
-
-- 2 Wells: 1 point for each adjacent cottage (fed and unfed).That gives 5 points 
-
-- 4 Fed Cottages: 3 points for each fed cottage. 1 Farm only feeds 4 Cottages, so only 4 of the 5 constructed Cottages score points. That gives 12 points.
+| | | | |
+|---------|--------|--------|---------|
+| 2 Wells | image of a well | 1 point for each adjacent cottage (fed and unfed). | That gives 5 points |
+| 4 Fed Cottages | image of a cottage | 3 points for each fed cottage. 1 Farm only feeds 4 Cottages, so only 4 of the 5 constructed Cottages score points. | That gives 12 points. |
   
-- Chapel: 1 point for each of the 4 fed cottages and 0 points for the 1 unfed cottage. That gives 4 points.
+| Chapel | image of a chapel | 1 point for each of the 4 fed cottages and 0 points for the 1 unfed cottage. | That gives 4 points. |
 
-- 3 Taverns: 9 points for having constructed 3 taverns. That gives 9 points.
+| 3 Taverns | image of a Tavern | 9 points for having constructed 3 taverns. |That gives 9 points. |
 
-- Bakery: 3 points for being adjacent to a farm. That gives 3 points.
+| Bakery | image of a Bakery | 3 points for being adjacent to a farm. | That gives 3 points. |
 
-- Warehouse: -1 point for each resource it holds. That gives -3 points.
+| Warehouse | image of a warehouse | -1 point for each resource it holds. | That gives -3 points. |
 
-- 2 Empty squares: -1 point each. That gives -2 points.
+| 2 Empty squares |  | -1 point each. | That gives -2 points. |
 
-- TOTAL POINTS: 28 points.
+| | | | TOTAL POINTS: 28 points. |
 
 ## Town Hall Rules (page 6)
 
@@ -231,92 +226,62 @@ Check your score against the chart below:
 
 |Points(VP)|Skill Level Achieved|
 |----------|--------------------|
-|38 or more|Master Architect|
-|32-37|Town Planner|
-|25-31|Engineer|
-|18-24|Carpenter|
-|10-17|Builder's Apprentice|
-|9 or less|Aspiring Architect|
+| 38 or more | Master Architect |
+| 32-37 | Town Planner |
+| 25-31 | Engineer |
+| 18-24 | Carpenter |
+| 10-17 | Builder's Apprentice |
+| 9 or less | Aspiring Architect |
 
+## Building clarifications (page 7)
 
-
-## Cottage
+### Cottage (page 7)
 
 Unfed Cottages remain on the board but do not score points on their own. Some other buildings, such as Wells, treat fed and unfed Cottages the same. You may construct Cottages even if you don't yet have a
 
-.
-
-## Farm
+### Farm (page 7)
 
 Farms feed 4 board.
 
-## Anywhere On The
+### Granary (page 7)
 
-## Granary
+Granaries only feed in the immediate surrounding squares (up, down, left, right, and diagonal), for a maximum of 8.
 
-Granaries only feed immediate surrounding squares (up, down, left, right, and diagonal), for a maximum of 8 .
-
-## In The 8
-
-## Greenhouse
+### Greenhouse (page 7)
 
 Greenhouses feed 1 contiguous group of that are adjacent (up, down, left, and right) to each other. This group does not have to be adjacent to a Greenhouse.
 
-## Orchard
+### Orchard (page 7)
 
-Orchards will always feed a maximum of 6 they are placed.
+Orchards will always feed a maximum of 6 no matter where they are placed.
 
-## , No Matter Where
+### Fountain (page 7)
 
-## Fountain
+Fountains cannot score more than 2. Adjacent refers to up, down, left, and right, not diagonal.
 
-Fountains cannot score more than 2 . Adjacent refers to up, down, left, and right, not diagonal.
+### Millstone (page 7)
 
-## Millstone
+Millstones cannot score more than 2. even if they are adjacent to multiple farm and bakeries.
 
-Millstones cannot score more than 2 multiple
-
-, even if they are adjacent to .
-
-## Or
-
-## Shed
+### Shed (page 7)
 
 Sheds are not restricted to being placed in the 2 squares their resources came from when constructed, but may be placed in any empty square on the board.
 
-## Well
+### Well (page 7)
 
-Adjacent refers to up, down, left, and right, not diagonal. Adjacent fed and unfed
+Adjacent refers to up, down, left, and right, not diagonal. Adjacent fed and unfed cottage score 1.
 
-## Score 1
+### Abbey (page 7)
 
-.
+Abbeys like to be isolated. If an Abbey is adjacent (up, down, left, and right) to any of tavern, bakery, warehous
 
-## Abbey
+### Chapel (page 7)
 
-Abbeys like to be isolated. If an Abbey is adjacent (up, down, left, and right) to any of worth 0
+Score Chapels individually. A town with 3 fed cottages and 1 unfed cottage will make each Chapel worth 3 (chapels do not earn) for Unfed
 
-.
+### Cloister (page 7)
 
-, it is
-
-## Chapel
-
-Score Chapels individually. A town with 3 fed
-
-and 1 unfed will make each Chapel worth for
-
-## 3 Unfed
-
-. (Chapels do not earn
-
-.)
-
-## Cloister
-
-Cloisters not placed in a corner will still score 1 Cloister placed in a corner. The maximum a Cloister can . score is 4
-
-## For Each Other
+Cloisters not placed in a corner will still score 1 for each other. Cloister placed in a corner. The maximum a Cloister can score is 4
 
 ## Temple
 
