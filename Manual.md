@@ -1,5 +1,5 @@
 
-## Setup
+## Setup (page 2)
 
 1. Give each player a player board.
 
@@ -35,7 +35,7 @@ There are 5 different resources:
 
 11. Give each player 1 wooden monument, which they should keep next to their Monument card. Return any remaining monuments to the box — they will not be available to players in this game. For your first game, you may want to play without monuments.
 
-recommended cards for first play
+### recommended cards for first play
 
 9
 
@@ -47,31 +47,27 @@ recommended cards for first play
 
 2
 
-recommended cards for first play
-
-## Monuments
+## Monuments (page 3)
 
 A monument is a special type of building that can only be constructed by the player holding that card. Players may only construct their monuments once. Monuments may be constructed in any round, just like a normal building (see Building Construction Rules). Upon constructing a monument, the player should read the Monument card aloud, place it face-up in front of them, and resolve any immediate effects. If the card grants an ability, that ability takes effect immediately and only applies to the card's holder. Scoring for Monument cards is resolved at game end. Monuments are not a part of the general supply.
 
-> An image with the letter A,B,C,D,E around it, called Architects Guild.
+> An image of a card with the letter A,B,C,D,E around it, called Architects Guild.
 
-### Building card anatomy
+### Building card anatomy (page 3)
 
 - A. Card Title
 - B. Building Type
 - C. Art
 - D. Resource Build Pattern
 - E. Building Ability/Scoring
-
-3
-
-## Round Overview
+- 
+## Round Overview (page 4)
 
 1. The Master Builder names a type of resource. (Wood, Wheat, Brick, Glass, or Stone)
 
 2. All players MUST take a cube of this resource and place it in an empty square in their town grid. Players do this simultaneously.
 
-## Resource Placement
+### Resource Placement (page 4)
 
 - Resources may never be moved to a different square after being placed.
 
@@ -81,6 +77,18 @@ A monument is a special type of building that can only be constructed by the pla
 
 - When resources are removed from a board, they go back to the general supply.
 
+3. Players may construct any buildings for which they have the matching resources in the correct shape. Players do this simultaneously and should announce what building they are constructing.
+
+4. Once all players have placed their resources and constructed buildings, a new round begins. The Master Builder token passes to the player on the left.
+
+The new Master Builder should always wait until all players are ready before naming the next resource. Players can show that they are still thinking by holding up their resource cube until they place it.
+
+After a resource has been placed, players have until the next resource is named to construct any buildings.
+
+### The cavern rule (page 4)
+
+Building a Tiny Town is difficult. If this is one of your first games, or if you want a little more flexibility in your town, we recommend that you play with the Cavern rule. Throughout the game, players have the option of placing up to 2 resources named by other players off to the side of their board. These resources score no points or penalties at the end of the game. Players must decide when it is most advantageous to use this special ability!
+
 ## Building Construction Rules
 
 Building layouts may be mirrored/flipped and rotated, as long as the configuration of resources remains the same. To construct a building:
@@ -89,57 +97,53 @@ Building layouts may be mirrored/flipped and rotated, as long as the configurati
 
 A resource can only be used to construct 1 building — in other words, every building requires all of its resources.
 
-2. Take the matching wooden building from the general supply.
+Buildings may never be moved to a different square after being placed.
 
-3. Place it in 1 of the squares that was occupied by the resources removed.
+2. Take the matching wooden building from the general supply.
 
 Buildings do not have to be constructed as soon as its resources are in place. Players may wait as many rounds as they want to construct a building.
 
-Players may construct multiple buildings at once.
-
-## Building Construction Example
-
-Buildings may never be moved to a different square after being placed.
-
 Any player can construct any of the buildings (except other players' monuments). Building cards are not replaced when players construct buildings.
+
+3. Place it in 1 of the squares that was occupied by the resources removed.
+
+Players may construct multiple buildings at once.
 
 Players cannot construct a building immediately after a resource has been named without physically placing the resource cube in their town first.
 
-3. Players may construct any buildings for which they have the matching resources in the correct shape. Players do this simultaneously and should announce what building they are constructing.
+### Building Construction Example (page 4)
 
-4. Once all players have placed their resources and constructed buildings, a new round begins. The Master Builder token passes to the player on the left. The new Master Builder should always wait until all players are ready before naming the next resource. Players can show that they are still thinking by holding up their resource cube until they place it.
+> An image of a card having a Chapel on it.
 
-After a resource has been placed, players have until the next resource is named to construct any buildings.
-
-the cavern rule Building a Tiny Town is difficult. If this is one of your first games, or if you want a little more flexibility in your town, we recommend that you play with the Cavern rule. Throughout the game, players have the option of placing up to 2 resources named by other players off to the side of their board. These resources score no points or penalties at the end of the game. Players must decide when it is most advantageous to use this special ability!
-
-4
-
-So this is allowed.
-
-## And This.
+> An image of a piece of land sectioned in boxes. an arrow pointing to the third row in the second column.
 
 If John places a blue Resource cube here, he may choose to construct a Chapel.
 
-## And Even This.
+> An image of the same piece of land, with the blue resource cube moved to the pointed arrow.
 
 BLAM! Now John is ready to construct a Chapel.
 
+> An image of the same piece of land, but all empty.
+ 
 John removes the 4 cubes and can place the wooden Chapel in any of the squares they occupied. He chooses the rightmost square. Resources and other buildings may no longer be placed in that square.
+
+## And This.
+
+
+
+## And Even This.
+
+
+
+
 
 But not this, since the configuration of the cubes does not match the Chapel card.
 
-feeding your cottages ) must be fed by
+### Feeding your cottages (page 5)
 
-Remember! Cottages ( 3 buildings, but unfed Cottages at game end score 0
+Remember! Cottages must be fed by buildings, to be worth 3 points. players may construct cottages before or after constructing buildings, but unfed Cottages at game end score 0 points.
 
-buildings to be worth
-
-. Players may construct Cottages before or after constructing
-
-.
-
-## Completing Your Town
+## Completing Your Town (page 5)
 
 When your town is filled with resources and you cannot (or choose not to) construct any buildings, your town is completed. You are out of the game and can start calculating your score. (You no longer take turns naming resources as the Master Builder.)
 
@@ -147,95 +151,44 @@ Note: A player may continue to place resources and name resources as the Master 
 
 If only 1 player is left, that player can continue to name resources as the sole Master Builder until their town is completed.
 
-## Game End
+## Game End (page 5)
 
-When all players' towns are completed, the game ends immediately. Remove all remaining resource cubes (except from Warehouses). Each empty square is worth -1 penalties to calculate their final score. The player with the most
-
-. Players add their
-
-for each building in their town and subtract any
-
-## Wins!
+When all players' towns are completed, the game ends immediately. Remove all remaining resource cubes (except from Warehouses). Each empty square is worth -1 points. Players add their points for each building in thier town and any penalties to calculate their final score. The player with the most points wins.
 
 In the case of a tie, the tied player who had the fewest turns as Master Builder wins. If there is still a tie, the player with the fewest empty squares wins. If there is still a tie, the player with the most Cottages wins. If there is still a tie, the tied players share the victory.
 
-Additional Rules • Resource cubes and buildings are unlimited. If you run out, substitute
+## Additional Rules (page 5)
+- Resource cubes and buildings are unlimited. If you run out, substitute Some Other Marker.
 
-## Some Other Marker.
-
-- Unfed Cottages at game end remain on the board but score no Some other buildings (such as Wells) still score points from unfed Cottages. .
+- Unfed Cottages at game end remain on the board but score no Some other buildings (such as Wells) still score points from unfed Cottages.
 
 - "Adjacent" means up, down, left, and right.
 
 - It is possible to have a negative score.
 
-## Never Score
-
-## On Their Own.
+Buildings Never Score points On Their Own.
 
 ## Scoring Example
 
 Playing without monuments, this board would score:
 
-## 2 Wells
+- 2 Wells: 1 point for each adjacent cottage (fed and unfed).That gives 5 points 
 
-1 for each adjacent cottage (fed and unfed).
+- 4 Fed Cottages: 3 points for each fed cottage. 1 Farm only feeds 4 Cottages, so only 4 of the 5 constructed Cottages score points. That gives 12 points.
+  
+- Chapel: 1 point for each of the 4 fed cottages and 0 points for the 1 unfed cottage. That gives 4 points.
 
-5
+- 3 Taverns: 9 points for having constructed 3 taverns. That gives 9 points.
 
-## 4 Fed Cottages
+- Bakery: 3 points for being adjacent to a farm. That gives 3 points.
 
-3 1 Farm only feeds 4 Cottages, so only 4 of the 5 constructed Cottages score
+- Warehouse: -1 point for each resource it holds. That gives -3 points.
 
-## For Each Fed Cottage.
+- 2 Empty squares: -1 point each. That gives -2 points.
 
-.
+- TOTAL POINTS: 28 points.
 
-12
-
-## Chapel
-
-## 1 Cottages And 0 1 Unfed Cottage.
-
-## For Each Of The 4 Fed For The
-
-4
-
-## 3 Taverns
-
-9 for having constructed 3 Taverns.
-
-9
-
-## Bakery
-
-## 3 To A Farm.
-
-for being adjacent
-
-3
-
-## Warehouse
-
-1 holds.
-
-## For Each Resource It
-
-3
-
-## 2 Empty Squares
-
-1
-
-## Each.
-
-2
-
-## Total: 28
-
-5
-
-## Town Hall Rules
+## Town Hall Rules (page 6)
 
 Town Hall is a different way to play Tiny Towns that introduces the Resource deck and changes the way resources are selected during the game.
 
