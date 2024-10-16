@@ -1,4 +1,3 @@
-
 ## Setup (page 2)
 
 1. Give each player a player board.
@@ -194,7 +193,9 @@ Town Hall is a different way to play Tiny Towns that introduces the Resource dec
 
 Assign 1 player to be the Mayor, who will draw Resource cards to determine which resource all players will place.
 
-gameplay Shuffle the 15 Resource cards to form a draw pile, and discard the top 5 cards face-down to a discard pile.
+### Gameplay (page 6)
+
+Shuffle the 15 Resource cards to form a draw pile, and discard the top 5 cards face-down to a discard pile.
 
 1. The Mayor starts the game by drawing the top Resource card from the draw pile and placing it face-up on the table. Players must place the resource shown on the card in their town.
 
@@ -208,23 +209,19 @@ Note: In this, Building and Monument cards that refer to other players naming re
 
 If a player builds the monument Fort Ironweed, that player may no longer take and place resources every third round, in which players have their choice of resource, unless that player is the only player remaining.
 
-## Solo Variant
+## Solo Variant (page 6)
 
 There is no Master Builder in the Solo variant.
 
-setup Remove the following cards from the game when playing the solo variant:
+### Setup 
 
-## The Inn ( Opaleye'S Watch (
+Remove the following cards from the game when playing the solo variant:
 
-## ), The Bank (
+The Inn, The bank, Fort Ironweed and Opaleye'S Watch.
 
-).
+### Solo rules 
 
-## ), Fort Ironweed (
-
-## ) And
-
-solo rules Shuffle the 15 Resource cards to form a draw pile and reveal the top 3 cards. You choose to place any 1 of the 3 resources shown in your town and construct buildings as normal. Then place the corresponding card face-down on the bottom of the draw pile and draw a new Resource card to replace it.
+Shuffle the 15 Resource cards to form a draw pile and reveal the top 3 cards. You choose to place any 1 of the 3 resources shown in your town and construct buildings as normal. Then place the corresponding card face-down on the bottom of the draw pile and draw a new Resource card to replace it.
 
 Note: In this variant, Building and Monument cards that refer to other players naming resources (Factory, Warehouse, Statue of the Bondmaker) apply to choosing resources from the resource deck.
 
@@ -232,19 +229,16 @@ The game ends as normal, when your town is completed (your town is filled with r
 
 Check your score against the chart below:
 
-(VP) 38 or more 32-37 25-31 18-24 10-17
+|Points(VP)|Skill Level Achieved|
+|----------|--------------------|
+|38 or more|Master Architect|
+|32-37|Town Planner|
+|25-31|Engineer|
+|18-24|Carpenter|
+|10-17|Builder's Apprentice|
+|9 or less|Aspiring Architect|
 
-## Skill Level Achieved
 
-## Master Architect Town Planner Engineer Carpenter Builder'S Apprentice
-
-## 9 Or Less
-
-## Aspiring Architect
-
-6
-
-## Building Clarifications
 
 ## Cottage
 
