@@ -283,176 +283,104 @@ Score Chapels individually. A town with 3 fed cottages and 1 unfed cottage will 
 
 Cloisters not placed in a corner will still score 1 for each other. Cloister placed in a corner. The maximum a Cloister can score is 4
 
-## Temple
+### Temple (page 7)
 
-Temples are worth 0 not adjacent to at least 2
+Temples are worth 0 if they are not adjacent to at least 2 cottages.
 
-if they are .
-
-## Almshouse
+### Almshouse (page 7)
 
 The maximum Almshouse score is 26 . If you construct more than 6 Almshouses, the total Almshouse score is still 26
 
-.
+### Feast Hall (page 7)
 
-## Feast Hall
+If you tie with the player to your right, your Feast Halls are only worth 2. In a 2-player game, Feast Halls are worth 3 to the player with the most and 2 to the player with the least or 2 if tied
 
-If you tie with the player to your right, your Feast Halls are only worth 2 are worth 3 most and 2 least, or 2
-
-. In a 2-player game, Feast Halls to the player with the to the player with the
-
-if tied.
-
-## Inn
+### Inn (page 7)
 
 Inns in the same row or column are worth 0
 
-.
-
-## Tavern
+### Tavern (page 7)
 
 Taverns score points as a group. For example, 4 Taverns are worth 14 total (but can be anywhere on the board). Any Taverns constructed after the 5th Tavern do not increase your Tavern score.
 
-## Bakery
+### Bakery (page 7)
 
 Adjacent refers to up, down, left, and right, not diagonal.
 
-## Market
+### Market (page 7)
 
 Markets score for either a row or column, but not both. Markets always score 1 for themselves in addition to any other Markets in the same row or column, for a maximum score of 4
 
-.
+### Tailor (page 7)
 
-## Tailor
+Tailors not constructed in the 4 center squares are still worth 1 plus 1 for each other tailor in the 4 center squares. The maximum a Tailor can score in total is 5
 
-Tailors not constructed in the 4 center squares are still worth 1 plus 1 4 center squares. The maximum a Tailor can score in total is 5
+### Theater (page 7)
 
-## For Each Other Tailor In The
+A Theater's score is the total number of unique building types besides Theater that share a row or column with that Theater, for a maximum score of 6. If there are buildings of the same type in both the same row and column as Theater, that building type only counts once toward Theater's score. Monument counts as a unique building type (unless it is Barrett Castle, which ). counts as 2 cottages.
 
-.
-
-## Theater
-
-A Theater's score is the total number of unique building types besides Theater that share a row or column with that Theater, for a maximum score of 6 of the same type in both the same row and column as Theater, that building type only counts once toward Theater's score. Monument counts as a unique building type (unless it is Barrett Castle, which ). counts as 2
-
-. If there are buildings
-
-## Bank
+### Bank (page 7)
 
 You cannot construct more than 5 Banks, since there would be no resource for them to hold.
 
-## Factory
+### Factory (page 7)
 
 You may choose for multiple Factories to hold the same resource, but it offers you no advantage.
 
-## Trading Post
+### Trading Post (page 7)
 
 Trading Posts can be used in the layout of any future buildings. When you construct a building that used a Trading Post as a resource, you do not remove the Trading Post from its square. You can use multiple Trading Posts to construct a single building, but at least 1 non-Trading Post resource must be used.
 
-## Warehouse
+### Warehouse (page 7)
 
 You can store up to 3 resources with a Warehouse by physically placing the cubes on the building. When another player names a resource that you do not want, place the resource on your Warehouse. You may remove a resource from your Warehouse and place it in an empty square on your board when you do this. You can never remove a resource without placing a new resource on the Warehouse. As a result, the number of resources on a Warehouse will never decrease.
 
-7
+## Monument Clarifications (page 8)
 
-## Monument Clarifications
-
-## Architect'S Guild
+### Architect'S Guild (page 8)
 
 You may choose not to use the ability of the Architect's Guild, but you cannot use it later. The buildings you place may be the same type or 2 different types. You cannot change buildings into monuments, since they are not in the general supply.
 
-## Archive Of The Second Age
+### Archive Of The Second Age (page 8)
 
 It does not matter where buildings are located for scoring this monument.
 
-## Barrett Castle
+### Barrett Castle (page 8)
 
-For all building scoring, Barrett Castle counts as 2
+For all building scoring, Barrett Castle counts as 2 cotages and not a monument.
 
-## And Not A
-
-.
-
-## Cathedral Of Caterina
+### Cathedral Of Caterina (page 8)
 
 This applies only to empty squares on your own board.
 
-## Fort Ironweed
+### Fort Ironweed (page 8)
 
 Once this monument is constructed, you may not be Master Builder and must pass the token to the player on your left, unless you are the last player in the game.
 
-## Grove University
+### Grove University (page 8)
 
 You cannot place a monument after constructing Grove University since monuments are not in the general supply.
 
-## Mandras Palace
+### Mandras Palace (page 8)
 
 Adjacent refers to up, down, left, and right, not diagonal.
 
-## Opaleye'S Watch
+### Opaleye'S Watch (page 8)
 
 You may not choose monument as a building type for this card, since it is not in the general supply.
 
-## Shrine Of The Elder Tree
+### Shrine Of The Elder Tree (page 8)
 
-If this is the 7th or later building you construct, it still only scores 8
+If this is the 7th or later building you construct, it still only scores 8 points.
 
-## Silva Forum
+### Silva Forum (page 8)
 
 A contiguous group refers to buildings that are adjacent to one another.
 
-## The Starloom
+### The Starloom (page 8)
 
 You score the full points for 1st, 2nd, or 3rd if you complete your town in the same round as (tie with) another player.
 
-## Statue Of The Bondmaker
+### Statue Of The Bondmaker (page 8)
 
-Resources on squares containing cannot be used to construct
-
-## Buildings.
-
-.
-
-## Credits
-
-## Design Peter Mcpherson
-
-## Development Lead Josh Wood
-
-## Project Lead Nicolas Bongiu
-
-## Production David Lepore
-
-## Art Gong Studios
-
-## Graphic Design Matt Paquette
-
-## Writing Andre Chautard
-
-## Special Thanks
-
-Peter Mcpherson is a freelance writer and game designer from upstate New York. Tiny Towns is his first game.
-
-Thank you to Indiana Nash for her endless encouragement and for being the first playester. I would also like to thank my family: Dad, Mom, and Griff.
-
-## Thank You To Alan Barrett For His Work On The First Prototype.
-
-Thank you to John Zinser for believing in this tiny game, and to Josh Wood for all of his input, ideas, and general design wisdom.
-
-## ©2019 Alderac Entertainment Group.
-
-Tiny Towns and all associated marks are ™ and © Alderac Entertainment, Inc. 555 N El Camino Real #A393, San Clemente, CA 92672, USA
-
-All rights reserved. Printed in China.
-
-Warning: Choking Hazard! Not for use by children under 3 years of age.
-
-## Questions? Email Customerservice@Alderac.Com
-
-## Www.Alderac.Com/Tiny-Towns
-
-Tiny Towns is dedicated to the memory of Bill Dawes.
-
-Thank you to the playtesters: Courtney Maki, Josh Beauregard, Mark J. Minick, Jenna Townsend, Lucas Roby, Jesse Bisceglia, Adam Schuurmans, Nick Wilsey, Faith Hardin, Nick Painter, Jenny Ritz, Ben Ritz, Andrew Couperus, Danielle Schissler, Josh Mccabe, Kevin Root, Jeff Warrender, Kevin Gibson, Quentin Hudspeth, Dean Howard, P.D. Magnus, Brian Neugebauer, Sam Lafleche, Kevin Piala, Jed Moody, Martin Glazer, Emily Garrick, Jon "Ouch!" Luke, and all of the others who played this game.
-
-8
+Resources on squares containing cottages cannot be used to construct Buildings.
