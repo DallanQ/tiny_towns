@@ -63,7 +63,7 @@ A monument is a special type of building that can only be constructed by the pla
 - C. Art
 - D. Resource Build Pattern
 - E. Building Ability/Scoring
-- 
+  
 ## Round Overview (page 4)
 
 1. The Master Builder names a type of resource. (Wood, Wheat, Brick, Glass, or Stone)
@@ -169,17 +169,11 @@ Playing without monuments, this board would score:
 |---------|--------|--------|---------|
 | 2 Wells | image of a well | 1 point for each adjacent cottage (fed and unfed). | That gives 5 points |
 | 4 Fed Cottages | image of a cottage | 3 points for each fed cottage. 1 Farm only feeds 4 Cottages, so only 4 of the 5 constructed Cottages score points. | That gives 12 points. |
-  
 | Chapel | image of a chapel | 1 point for each of the 4 fed cottages and 0 points for the 1 unfed cottage. | That gives 4 points. |
-
 | 3 Taverns | image of a Tavern | 9 points for having constructed 3 taverns. |That gives 9 points. |
-
 | Bakery | image of a Bakery | 3 points for being adjacent to a farm. | That gives 3 points. |
-
 | Warehouse | image of a warehouse | -1 point for each resource it holds. | That gives -3 points. |
-
 | 2 Empty squares |  | -1 point each. | That gives -2 points. |
-
 | | | | TOTAL POINTS: 28 points. |
 
 ## Town Hall Rules (page 6)
