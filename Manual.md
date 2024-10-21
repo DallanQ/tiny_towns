@@ -136,7 +136,7 @@ This isnt allowed, since the configuration of the cubes does not match the Chape
 
 ### Feeding your cottages (page 5)
 
-Remember! Cottages must be fed by Farm / Granary / Greenhouse / Orchard (red building icon) buildings, to be worth 3 points. Players may construct Cottages before or after constructing Farm buildings, but unfed Cottages at game end score 0 points.
+Remember! Cottages must be fed by Farm / Granary / Greenhouse / Orchard (red building icon) buildings, to be worth 3 points. Players may construct Cottages before or after constructing Farm / Granary / Greenhouse / Orchad (red building icon) buildings, but unfed Cottages at game end score 0 points.
 
 ## Completing Your Town (page 5)
 
