@@ -24,26 +24,67 @@ In your example, 2 Taverns are worth 5 points total, and 2 Almshouses are worth 
 
 
 [can-cubes-on-factories-be-used-in-building-pattern](https://boardgamegeek.com/thread/2333380/can-cubes-on-factories-be-used-in-building-pattern)
+> Are the cubes on factories just there for the "you can pick another color" power? Or are they also permanent resources that can be used in patterns for other structures?
+
+They are only there for the pick another color power. It is only when the dark blue card is a Trading Post that you can use the building itself as a "wild" of any cube color in the spot that the trading post occupies.
 
 [yet-another-factory-question](https://boardgamegeek.com/thread/2327785/yet-another-factory-question)
+> Building a factory lets you place one cube on it and whenever that cube is called out (or drawn) you may replace it with any other. Does this mean that if you build 5 factories, every pull will be any resource you want?
+
+Yes, but its not a good strategy. You burn 5 spaces that dont score points.
 
 [bank](https://boardgamegeek.com/thread/2613594/bank)
+> What's the point of building a Bank when you limit yourself and can't name a colour when you are a Master Builder? You can't use a resource which you put on a Bank.
+
+The purpose of building the Bank is that it scores you relatively higher than other buildings. The downside is you can't call for that specific resource anymore, so each Bank you build limits you further.
 
 [cottages-and-greenhouse](https://boardgamegeek.com/thread/2350096/cottages-and-greenhouse)
+> If you can only feed a max of 4 cottages with a Farm, I don't understand if this rule exists for all farm like cards?
+
+Greenhouse is probably the best "red" building but cottages aren't the best building. If you feed 6 cottages you will receive 18VP across 7 buildings (because the greenhouse scores 0 points) roughly 2.6 VP per building, But if construct a 7 abbeys you would score 21VP, 3VP per building. Cottages are still great because they combo with other buildings such as Chapel.
 
 [timing-for-opaleye-s-watch](https://boardgamegeek.com/thread/2327451/timing-for-opaleye-s-watch)
+> The text on Opaleye's Watch states that you place one of the buildings on the card "Whenever player on the left or right of you constructs one of those buildings."
+> Does this apply to buildings constructed in the round in which Opaleye’s Watch was constructed?
+
+No; as long as it happens after you have constructed opaleye's watch. If they constructed those buildings before you constructed opaleye's watch.
+A turn works like this:
+1) resource is named
+2) Resources are placed
+3) buildings are constructed
+4) Abilities are triggered
+Since you choose the buildings in step 4 they wouldn't get to trigger buildings from step 3
 
 [further-clarification-on-the-bank](https://boardgamegeek.com/thread/2460501/further-clarification-on-the-bank)
+> Why would you build the Bank, other than a four point bonus reason. It seems to indicate you can put a resource on there but for what reason? If you can't pick a resource of your choice when your chosen resource is called out, why do it? Also, it says you can't choose a resource if you are master builder. So if you are playing the town hall variant, you aren't taking turns to be the master builder.
+
+The point is that it is worth 4 points. It adds a tiny restriction on you in return.
+If you put a resource on the Bank, you can't call for that resource when you are the master builder, you can still add it to your town if other players call it.
+In the town hall variant, you can't choose that resource every 3rd turn when it is your choice on what resource to take.
 
 [can-the-same-trading-post-be-used-to-build-two-sep](https://boardgamegeek.com/thread/2897690/can-the-same-trading-post-be-used-to-build-two-sep)
+> Can the same trading post be used to build two separate buildings on the same turn, given that a square with a resource cannot be used for two buildings in the same turn?
+
+Yes, Nothing forbid to use the same trading post to build two (or more) separate buildings on the same turn so you can.
 
 [fortune-building-two-gamblers-dens-at-the-same-tim](https://boardgamegeek.com/thread/2770499/fortune-building-two-gamblers-dens-at-the-same-tim)
 
 [clarification-mirror-images](https://boardgamegeek.com/thread/2197250/clarification-mirror-images)
+> While constructing a building: are mirror images allowed?
+
+The rules say that "mirrored/flopped" are both OK. Under "Building Construction Rules.
 
 [theater-scoring-question](https://boardgamegeek.com/thread/2353203/theater-scoring-question)
+> Can theaters score off of each other? i.e. If 2 theaters are in the same row, is the other theater counted as a unique building?
+
+They do not count other theaters. They’re already pretty good.
 
 [greenhouse-clarification](https://boardgamegeek.com/thread/2197331/greenhouse-clarification)
+> Does the contiguous group needing to be fed need to be the same type of building?
+> For example: Will [cottage]-[barret castle]-[cottage] all be fed? similarly will the two cottages in [cottage]-[well]-[cottage] be fed?
+
+[cottage]-[barret castle]-[cottage] = Works since they are buildings that “need to be fed”
+[cottage]-[well]-[cottage] = Does not work.
 
 [placing-and-replacing-buildings-grove-university-a](https://boardgamegeek.com/thread/2212069/placing-and-replacing-buildings-grove-university-a)
 
