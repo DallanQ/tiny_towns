@@ -1,13 +1,27 @@
 [cloister-well-and-other-pt-per-each](https://boardgamegeek.com/thread/2205285/cloister-well-and-other-pt-per-each)
 >  What is the meaning of the cards that have the scoring, 1pt each for a condition.
-Example:
-Cloister
-1 pt for each cloister in the corners.
-If you have 4 cloisters in the corner, is it 16 pts or 4 pts?
+> Example:
+> Cloister
+> 1 pt for each cloister in the corners.
+> If you have 4 cloisters in the corner, is it 16 pts or 4 pts?
 
 Its 4 points per cloister, because points counted for each cloister built, So 4 cloisters, would be 16pts total.
 
 [how-do-i-score-duplicates-of-these-buildings](https://boardgamegeek.com/thread/2205753/how-do-i-score-duplicates-of-these-buildings)
+> Do this buildings score individually?
+> 2 FARMS with 4 cottages on your board, 12 or 24 points?
+> 2 ORCHARDS each with 2 cottages in the same row or column, 6 or 12
+and, what if they share one cottage, 6, 9, or 12 points?
+> 2 GRANARYS same as above.
+> 2 GREENHOUSES with 3 cottages on your board. Do you score the contiguous group of cottages for 9 or 18 points?
+> 2 TAVERNS, 5 or 10 points? 4 TAVERNS, 14 or 56?
+> 2 ALMSHOUSES, 5 or 10 points? 4 ALMSHOUSES, 15 or 60?
+
+Every building scores individually, except for things like Tavern which obviously score collectively.
+Farms do not score at all; they feed cottages.
+A cottage scores if it is fed. It doesn’t matter if it’s fed twice. The cottage doesn’t say “Score points each time it’s fed.” So you look at your board and say “This farm is gonna feed those 4 cottages, so they each score. This other farm is gonna feed those other 4 cottages so they score. This 9th cottage is left unfed so it doesn’t score.” Etc.
+In your example, 2 Taverns are worth 5 points total, and 2 Almshouses are worth 5 points total.
+
 
 [can-cubes-on-factories-be-used-in-building-pattern](https://boardgamegeek.com/thread/2333380/can-cubes-on-factories-be-used-in-building-pattern)
 
