@@ -1,4 +1,11 @@
 [cloister-well-and-other-pt-per-each](https://boardgamegeek.com/thread/2205285/cloister-well-and-other-pt-per-each)
+>  What is the meaning of the cards that have the scoring, 1pt each for a condition.
+Example:
+Cloister
+1 pt for each cloister in the corners.
+If you have 4 cloisters in the corner, is it 16 pts or 4 pts?
+
+Its 4 points per cloister, because points counted for each cloister built, So 4 cloisters, would be 16pts total.
 
 [how-do-i-score-duplicates-of-these-buildings](https://boardgamegeek.com/thread/2205753/how-do-i-score-duplicates-of-these-buildings)
 
