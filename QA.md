@@ -24,7 +24,6 @@ Farms do not score at all; they feed cottages.
 A cottage scores if it is fed. It doesn’t matter if it’s fed twice. The cottage doesn’t say “Score points each time it’s fed.” So you look at your board and say “This farm is gonna feed those 4 cottages, so they each score. This other farm is gonna feed those other 4 cottages so they score. This 9th cottage is left unfed so it doesn’t score.” Etc.
 In your example, 2 Taverns are worth 5 points total, and 2 Almshouses are worth 5 points total.
 
-
 [can-cubes-on-factories-be-used-in-building-pattern](https://boardgamegeek.com/thread/2333380/can-cubes-on-factories-be-used-in-building-pattern)
 > Are the cubes on factories just there for the "you can pick another color" power? Or are they also permanent resources that can be used in patterns for other structures?
 
@@ -166,11 +165,13 @@ Its a choice of 3 unique/different buildings, and place the token for those 3 bu
 > Can you build on any square with a resource cause afterall there is no building there.
 
 No. Obelisk says that you can build in *empty* squares. Squares with resources are not empty.
+
 [i-dont-want-to-tell-others-what-im-building](https://boardgamegeek.com/thread/2227907/i-dont-want-to-tell-others-what-im-building)
 > Are we supposed to be announcing what building we are trying to construct to the other players?
 
 You don't need to announce what you are building every time you place a material. You just announce what you will build once you have all pieces in place and they are ready to be replaced by the building. This is just in case someone wants to check whether or not all materials are placed in the correct order.
 Part of the fun is trying to guess what your friends are trying to build, so you can mess up with their materials
+
 [architects-guild-interaction-with-opaleyes-watch](https://boardgamegeek.com/thread/3214159/architects-guild-interaction-with-opaleyes-watch)
 
 [buliding-and-monuments-clarifications](https://boardgamegeek.com/thread/2321608/buliding-and-monuments-clarifications)
@@ -182,10 +183,12 @@ Part of the fun is trying to guess what your friends are trying to build, so you
 
 Barrett Castle is only 5 points max if its fed. However, it counts as two cottages only in reference to other building scorings like Chapel, Temple, Well, etc. That score per adjacent cottage.
 So its worth more than 5 points in the sense that it makes other buildings score more, assuming those buildings are even in the game.
+
 [outhouse-clarification](https://boardgamegeek.com/thread/2936988/outhouse-clarification)
 > Are you allowed to use the resource placed on the Outhouse to build a building?
 
 No. Outhouse is just for chucking unwanted resources.
+
 [resource-on-bank](https://boardgamegeek.com/thread/2197273/resource-on-bank)
 
 [solo-with-factory](https://boardgamegeek.com/thread/2236587/solo-with-factory)
