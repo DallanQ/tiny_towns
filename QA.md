@@ -5,7 +5,9 @@
 > 1 pt for each cloister in the corners.
 > If you have 4 cloisters in the corner, is it 16 pts or 4 pts?
 
-Its 4 points per cloister, because points counted for each cloister built, So 4 cloisters, would be 16pts total.
+Building Clarifications on page 7 of the rulebook explain the Cloister as so: "Cloisters not placed in a corner will still score 1 point for each other Cloister placed in a corner. The maximum a Cloister can score is 4 points."
+
+So, each Cloister can be worth up to 4 points. Four Cloisters in the corners plus one additional Cloister anywhere else on the board would be worth a total of 20 points.
 
 [how-do-i-score-duplicates-of-these-buildings](https://boardgamegeek.com/thread/2205753/how-do-i-score-duplicates-of-these-buildings)
 > Do this buildings score individually?
@@ -41,7 +43,7 @@ The purpose of building the Bank is that it scores you relatively higher than ot
 [cottages-and-greenhouse](https://boardgamegeek.com/thread/2350096/cottages-and-greenhouse)
 > If you can only feed a max of 4 cottages with a Farm, I don't understand if this rule exists for all farm like cards?
 
-Greenhouse is probably the best "red" building but cottages aren't the best building. If you feed 6 cottages you will receive 18VP across 7 buildings (because the greenhouse scores 0 points) roughly 2.6 VP per building, But if construct a 7 abbeys you would score 21VP, 3VP per building. Cottages are still great because they combo with other buildings such as Chapel.
+Nope. Each red card is different. 
 
 [timing-for-opaleye-s-watch](https://boardgamegeek.com/thread/2327451/timing-for-opaleye-s-watch)
 > The text on Opaleye's Watch states that you place one of the buildings on the card "Whenever player on the left or right of you constructs one of those buildings."
@@ -77,7 +79,7 @@ The rules say that "mirrored/flopped" are both OK. Under "Building Construction 
 [theater-scoring-question](https://boardgamegeek.com/thread/2353203/theater-scoring-question)
 > Can theaters score off of each other? i.e. If 2 theaters are in the same row, is the other theater counted as a unique building?
 
-They do not count other theaters. They’re already pretty good.
+No. Page 7 of the rules says, "Theater’s score is the total number of unique building types besides Theater that share a row or column with that Theater."
 
 [greenhouse-clarification](https://boardgamegeek.com/thread/2197331/greenhouse-clarification)
 > Does the contiguous group needing to be fed need to be the same type of building?
