@@ -135,6 +135,7 @@ You would score 3 points for the Bakery, as it counts each adjacent building sep
 > When my opponent replaces a building with a building which is one of the three buildings on my Opaleye's Watch card, Should I place that new building into my town?
 
 Yes. Whenever you place a building in your town it is considered to be constructed.
+
 [why-this-card-in-solo-is-discarded](https://boardgamegeek.com/thread/3304505/why-this-card-in-solo-is-discarded)
 
 [factory-s-cube](https://boardgamegeek.com/thread/2736550/factory-s-cube)
