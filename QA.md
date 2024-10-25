@@ -89,35 +89,87 @@ No. Page 7 of the rules says, "Theater’s score is the total number of unique b
 [cottage]-[well]-[cottage] = Does not work.
 
 [placing-and-replacing-buildings-grove-university-a](https://boardgamegeek.com/thread/2212069/placing-and-replacing-buildings-grove-university-a)
+> When you are instructed by Grove University or Architect's Guild to place or replace a building, if you choose to place a building such as the Bank or Factory, do you still put a resource cube on it?
+
+Yes, when you replace with Architect's Guild you still follow any construction requirements for things like Bank and Factory.
+
+> Specific to Architect's Guild: can you chose to "replace" a building with one of the same kind?
+
+You cannot replace a building with one of the same kind, but you could do this: Replace a Bank (with a glass) with an Almshouse. Replace an Almshouse with a Bank (with glass or any other resource). So if you are looking for a way to switch up the resource on Factory or Bank, this is a valid way to do it.
+On a different note, the number of buildings you replace can be anywhere from 0 to 2.
 
 [solo-fortune-what-s-a-round](https://boardgamegeek.com/thread/2515194/solo-fortune-what-s-a-round)
 
 [block-placement](https://boardgamegeek.com/thread/2128686/block-placement)
+> Can there be more than one block per square?
+
+No, each square can only hold one resource cube at a time.
+
+> Once a square has a building, can you still put blocks in it?
+
+No, once a building is constructed in a square, you cannot place any more resource cubes in that square.
 
 [scoring-multiples-of-same-building-farm-chapel-and](https://boardgamegeek.com/thread/2201817/scoring-multiples-of-same-building-farm-chapel-and)
+> Can I reuse cottages when scoring multiples of the same building?
+> Example: If I have 6 cottages fed by 2 farms would I score 24 pts (each farm feeding any 4 cottages for 12 pts), or 18 pts (one farm feeds 4 cottages for 12 pts and the other farm feeds the remaining two cottages for 6 pts).
+
+First you check the individual condition for each building.
+In the case of cottages just check "is it fed or not".
+It doesn't matter how many farms can feed it.
+In your example: So for each cottage you check- is it fed? If so, then add 3 points. So if you have 6 cottages and they are all fed, then you'd get 18 points.
 
 [barret-castle-question](https://boardgamegeek.com/thread/2205749/barret-castle-question)
 
 [greenhouse-with-single-cottage](https://boardgamegeek.com/thread/2267823/greenhouse-with-single-cottage)
+> Greenhouse specifies it feeds one contiguous group of cottages. If there is two single cottage (not contiguous) and two greenhouses, would those cottages be considered fed with each greenhouse feeding one cottage. Or do you have to have 2+ contiguous cottages for them to be fed at all?
+
+Generally, each building in Tiny Towns has a single application. So both Cottages are fed because each of the two Greenhouses- feeding a group (as small as 1) of contiguous Cottages, is feeding a separate group.
+
 
 [clarification-on-the-bakery](https://boardgamegeek.com/thread/2537758/clarification-on-the-bakery)
+> If I build a Factory and a Farm adjacent to one (same) Bakery. Do I score 6 points or 3 points for the bakery?
+
+You would score 3 points for the Bakery, as it counts each adjacent building separately.
 
 [opaleyes-watch-and-architects-guild](https://boardgamegeek.com/thread/2237191/opaleyes-watch-and-architects-guild)
+> When my opponent replaces a building with a building which is one of the three buildings on my Opaleye's Watch card, Should I place that new building into my town?
 
+Yes. Whenever you place a building in your town it is considered to be constructed.
 [why-this-card-in-solo-is-discarded](https://boardgamegeek.com/thread/3304505/why-this-card-in-solo-is-discarded)
 
 [factory-s-cube](https://boardgamegeek.com/thread/2736550/factory-s-cube)
+> About the ressource cube put on the factory when built: are you allowed to switch to another ressource only once during the game or are you allowed to use this power again during the remainder of the game?
+
+As often as you wish.
+Just to be clear: you place one resource on the Factory when it is constructed. Whenever the Master Builder names this type of resource, you may place a different resource yourself, although you cannot make this change when you are the Master Builder.
+For example:
+(1) You construct the Factory and put a glass cube on it.
+(2) Player A is the Master Builder and names Wheat. You must Place Wheat.
+(3) Player B becomes the Master Builder and names Glass - you may play any resource.
+(4) You become the Master Builder and name Glass - you must place Glass.
+For the rest of the game, every time another player is the Master Builder and names glass, you may place a different resource or glass.
 
 [well-question](https://boardgamegeek.com/thread/2228080/well-question)
+>  Could I have multiple wells attached to one cottage. In other words could I build up to 4 wells per cottage if I wanted to? Or am I limited to one well per cottage?
+
+Yes, you can build four wells near to a cottage. It would give you 4 points in total from the combined wells. You can also build four cottages adjacent to a single well, earning you 4 points in total from that well.
 
 [feast-hall-and-inn-in-solo](https://boardgamegeek.com/thread/3358124/feast-hall-and-inn-in-solo)
 
 [is-opaleye-s-watch-only-3-buildings-or-3-building](https://boardgamegeek.com/thread/3103121/is-opaleye-s-watch-only-3-buildings-or-3-building)
+> Is Opaleye’s Watch only 3 buildings or 3 building types?
+
+Its a choice of 3 unique/different buildings, and place the token for those 3 buildings on the card. Then, if/when an opponent builds one of the chosen types buildings, they may remove that building from the card and place it in their town for free.
 
 [tiny-towns-obelisk-of-the-crescent-clarification](https://boardgamegeek.com/thread/2570960/tiny-towns-obelisk-of-the-crescent-clarification)
+> Can you build on any square with a resource cause afterall there is no building there.
 
+No. Obelisk says that you can build in *empty* squares. Squares with resources are not empty.
 [i-dont-want-to-tell-others-what-im-building](https://boardgamegeek.com/thread/2227907/i-dont-want-to-tell-others-what-im-building)
+> Are we supposed to be announcing what building we are trying to construct to the other players?
 
+You don't need to announce what you are building every time you place a material. You just announce what you will build once you have all pieces in place and they are ready to be replaced by the building. This is just in case someone wants to check whether or not all materials are placed in the correct order.
+Part of the fun is trying to guess what your friends are trying to build, so you can mess up with their materials
 [architects-guild-interaction-with-opaleyes-watch](https://boardgamegeek.com/thread/3214159/architects-guild-interaction-with-opaleyes-watch)
 
 [buliding-and-monuments-clarifications](https://boardgamegeek.com/thread/2321608/buliding-and-monuments-clarifications)
@@ -125,9 +177,14 @@ No. Page 7 of the rules says, "Theater’s score is the total number of unique b
 [searching-for-rulebook-on-line](https://boardgamegeek.com/thread/2179446/searching-for-rulebook-on-line)
 
 [confusion-around-barrett-castle](https://boardgamegeek.com/thread/2780804/confusion-around-barrett-castle)
+> Does Barrett Castle provide 5 points if fed, or if it also provides an additional 6 points for counting as 2 houses, making a total of 11 points.
 
+Barrett Castle is only 5 points max if its fed. However, it counts as two cottages only in reference to other building scorings like Chapel, Temple, Well, etc. That score per adjacent cottage.
+So its worth more than 5 points in the sense that it makes other buildings score more, assuming those buildings are even in the game.
 [outhouse-clarification](https://boardgamegeek.com/thread/2936988/outhouse-clarification)
+> Are you allowed to use the resource placed on the Outhouse to build a building?
 
+No. Outhouse is just for chucking unwanted resources.
 [resource-on-bank](https://boardgamegeek.com/thread/2197273/resource-on-bank)
 
 [solo-with-factory](https://boardgamegeek.com/thread/2236587/solo-with-factory)
