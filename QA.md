@@ -190,28 +190,78 @@ So its worth more than 5 points in the sense that it makes other buildings score
 No. Outhouse is just for chucking unwanted resources.
 
 [resource-on-bank](https://boardgamegeek.com/thread/2197273/resource-on-bank)
+> What is the purpose of the resource that the bank holds?
+
+Banks come with a restriction: when it is your turn to choose a resource, you cannot choose a resource that is on one of your banks.
 
 [solo-with-factory](https://boardgamegeek.com/thread/2236587/solo-with-factory)
+> In solo, we choose 1 resource amongst the three resource cards available.
+> So does it mean I can select one of the three cards and if the resource corresponds to the one on the Factory, I can take another one instead?
+
+Yes, that is correct.
 
 [greenhouse-clarification-on-the-word-group](https://boardgamegeek.com/thread/2261043/greenhouse-clarification-on-the-word-group)
+> Does a group of 1 cottage counts? Or does it need to be 2 or more cottages for the feed to take effect?
+
+If you only have one cottage the greenhouse will feed it.
 
 [38-points-in-singleplayer](https://boardgamegeek.com/thread/2447999/38-points-in-singleplayer)
+> How do you get 38 points in the singleplayer variant to get the Master Architect title?
+It actually helps to use a monument that scores points over one that gives you a cool ability. Try also building that can score 4 or more points: chapel, theater, tailor, temple, almshouse, etc.
 
 [scoring-shrine-of-the-elder-tree](https://boardgamegeek.com/thread/2227812/scoring-shrine-of-the-elder-tree)
+> If this is scored at the time of building, and the points awarded are dependent upon the number of buildings built at that time, do you include the shrine itself in that tally?
+
+The Shrine counts itself.
 
 [obelisk-and-factory-question](https://boardgamegeek.com/thread/2209122/obelisk-and-factory-question)
+> Just played a game where one had the Obelisk of the Crescent and built 3 Factory’s (correction Trading Post) in a row and filled the rest of their board automatically with the green buildings. Needless to say they won in spectacular fashion. Did we play these cards correctly?
+
+It sounds as if you were not playing the Trading Post correctly:
+Quote:
+You can use multiple Trading Posts to construct a single building, but at least 1 non-Trading Post resource must be used.
+Granted, with three of them and the Obelisk one building could be built every turn, but it would be limited to one a turn. It's a very strong combo but of course building it all is not trivial.
 
 [end-of-game-keep-placing-cubes](https://boardgamegeek.com/thread/2264487/end-of-game-keep-placing-cubes)
+> If you get to a state in game were you'll never be able to build another building, but still have empty squares without resource... are you required to keep placing resources (as called out by Master Builder) before you can be finished?
+
+Rules state this:
+Quote:
+When your town is filled with resources and you cannot (or choose not to) construct any buildings, your town is completed. You are out of the game and can start calculating your score. (You no longer take turns naming resources as the Master Builder.)
+
+The answer is in the rules quote(First line) “when you cannot, or choose not to construct any buildings, your town is completed.” So you could just forfeit the game whenever you want.
 
 [scoring-a-tailor-and-silva-forum](https://boardgamegeek.com/thread/2544006/scoring-a-tailor-and-silva-forum)
+>  I built four Tailor buildings in the center squares. I took the Silva Forum Monument. Tailor buildings were in a cluster so what is the score?
+> 5 each Tailor building for 20 points?
+> 5 each for Tailor buildings using Silva Forum for 20 points?
+> 5 total for Tailor buildings and 5 total for Silva Forum?
+
+Each Tailor is 5 pts and Silva Forum is 5 pts (1 + 4 For 4 contiguous Tailors). Total 25pts.
 
 [opaleyes-watch-question](https://boardgamegeek.com/thread/2215196/opaleyes-watch-question)
+> The card states, "Immediately place 3 unique buildings on this card. Whenever a player on the left or right of you constructs 1 of those buildings, take the building from here and place it on an empty square in your town."
+Is this mandatory? Do I have to place one of those buildings if I don't want to yet?
+
+Yes, you have to place it.
+With this knowledge, if you are at the left or right of the player with that card, you may time your building in such a way that it is unwanted for that player.
 
 [help-understanding-the-bank](https://boardgamegeek.com/thread/2340782/help-understanding-the-bank)
 
 [opaleyes-watch-plus-arhitects-guide-question](https://boardgamegeek.com/thread/2419783/opaleyes-watch-plus-arhitects-guide-question)
+> My son has placed 3 buildings on his Opaleye's Watch card: Cottage, Factory, Farm.
+> I have already built a well and a cottage on my board. I build my Arhitect's Guide and replace well and cottage with two Factories.
+> Is my son allowed to place his factory ? because Arhitect's Guide card doesn't buid a building, it replace a buiding.
+> We played my son is was not allowed to place his Factory.
+> Good decision ?
+
+Your son would get to place the Factory. Any time a building is placed on a board it is considered to be constructed.
 
 [can-architects-guilds-effect-be-applied-to-itself](https://boardgamegeek.com/thread/2208839/can-architects-guilds-effect-be-applied-to-itself)
+> Architect's Guild (Monument): 1 point. When constructed, replace up to 2 other buildings in your town with any other building types.
+> Can this effect be used to replace the monument itself with another (non-monument) building type?
+
+Yes. it can be used to replace the monument itself with another non-monument building type.
 
 [mirror-placement](https://boardgamegeek.com/thread/2432875/mirror-placement)
 
