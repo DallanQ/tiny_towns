@@ -389,40 +389,92 @@ The Palace can score at most 8 points, by having 4 different building types orth
 The explanation for the Theatre in the rules, explains what unique means in the context of this game.
 
 [clarification-grand-mausoleum-of-the-rodina](https://boardgamegeek.com/thread/2212313/clarification-grand-mausoleum-of-the-rodina)
+> This monument states: "Your unfed cottages are worth 3 VP each". There is no clarification in the rulebook whether or not this replaces the normal cottage scoring mechanic (3 VP if fed).
+
+It doesn’t replace anything. If it’s fed, it’s 3 points via the Cottage card. If it’s not fed, it’s 3 points via the Monument card.
 
 [master-builder-wait-for-construction](https://boardgamegeek.com/thread/2201803/master-builder-wait-for-construction)
+> Could the Master Builder name the next resource immediately after the last player places their cube, preventing them from constructing a building that round?
+
+On page 4, step 3, the rules state that all players are given a chance to construct before the next player names a resource.
 
 [the-architects-guild-wipes-out-filthy-warehouses](https://boardgamegeek.com/thread/2255099/the-architects-guild-wipes-out-filthy-warehouses)
+> What happens when I replace my warehouses full of industrial wastes with some brand-new buildings?
+> How about new warehouses? Are they come into play unused? Or should the newly built warehouses take over the accumulated garbage?
+
+You can replace a full warehouse for another building thus removing the unwanted cubes forever. However you cannot remove a warehouse and put in a new warehouse. You must replace the old building for a new type of building.
 
 [monument-tier-list-for-fortune-exspansion](https://boardgamegeek.com/thread/2451829/monument-tier-list-for-fortune-exspansion)
 
 [grey-building-question](https://boardgamegeek.com/thread/3038432/grey-building-question)
+> Do the grey structure cards count as a building?
+For example: when you have the Archive of 2nd era monument it scores a point for every unique building. Do you include the grey structure as a unique building and therefore score a point for it?
+
+Yes, they're still buildings in a game sense even when in a real-world sense you wouldn't call a well or a statue a building.
 
 [trading-post-help](https://boardgamegeek.com/thread/2451868/trading-post-help)
 
 [townhouse-rules-question-regarding-picking-ressour](https://boardgamegeek.com/thread/2533442/townhouse-rules-question-regarding-picking-ressour)
 
 [building](https://boardgamegeek.com/thread/2212890/building)
+> What happens when you run out of 1 type of building?
+
+Under Additional Rules Page 5:
+Resource cubes and buildings are unlimited. If you run out, substitute some other marker.
 
 [scoring-the-market](https://boardgamegeek.com/thread/2392394/scoring-the-market)
+> If you have 4 markets in a row, does it score 4 points for each market, for a total of 16 points?
+
+Yes, 16 points.
+You have to ask yourself for each market individually:
+How many Markets are in the same row or column?
+In this case, the answer is 3 others.
+So this market scores 4 points.
+Now we go on to the next market ...
+You see where this is going? So yes 16 points.
 
 [another-factory-question](https://boardgamegeek.com/thread/2291568/another-factory-question)
+> While playing Tiny towns, I built a factory and as we played it, I could only put 1 of the 5 cubes that I used to build it (red, brown, grey) over the building, is that true? or I can choose any resource including blue and yellow?
+
+You can choose any resourse.
 
 [feeding-cottages-when-does-it-happen](https://boardgamegeek.com/thread/2472623/feeding-cottages-when-does-it-happen)
+> Do you feed cottage with your red buildings upon constructing the red building, or during endgame scoring?
+
+"Feeding" is an abstract concept in this game, it represents a condition that you need to meet in order to score points for cottages at the end of the game but is "active" as soon as the condition is met.
+So the answer is during the endgame scoring.
+Otherwise you could not build the red buildings before the cottages.
 
 [holding-off-on-constructing-building-with-villager](https://boardgamegeek.com/thread/3371143/holding-off-on-constructing-building-with-villager)
 
 [shrine-of-the-elder-tree-counting-itself](https://boardgamegeek.com/thread/2354259/shrine-of-the-elder-tree-counting-itself)
+> Does the shrine of the elder tree count itself for "number of buildings in your town when constructed"?
+
+It does indeed!
 
 [german-rules-available-now](https://boardgamegeek.com/thread/2278361/german-rules-available-now)
 
 [use-buildings-as-a-resource-colour](https://boardgamegeek.com/thread/2550802/use-buildings-as-a-resource-colour)
+> Can you use a building as a resource?
+
+Buildings are not resources; resources are not buildings.
+The only building you can use as a resource is the Trading Post
 
 [bank-card-and-town-hall-variant-rule](https://boardgamegeek.com/thread/2476930/bank-card-and-town-hall-variant-rule)
+> If I build a bank, I have got the possibility to announce a ressource previously set on it. But when i play with the town hall rule, i can't announce any ressource because I must put directly 2 Times a ressource card, and then taking another one on my own choice.
+> How Can i use this bank card?
+
+When we play with town hall variant, on the 3rd card which is your wild card, you are not allowed to take a cube of the same color as one on your bank. By your description i am not sure if you're playing the bank correctly. The color cube that you put on there can no longer be freely chosen by you.
 
 [how-to-score-multiple-markets](https://boardgamegeek.com/thread/2703685/how-to-score-multiple-markets)
 
 [understanding-barrett-castle](https://boardgamegeek.com/thread/2460510/understanding-barrett-castle)
+> I'm having trouble understanding Barrett Castle. So you get 5 points if fed. How do you feed the Castle? We had the Greenhouse card in play at the time.
+> What does it mean when it says it "counts as two cottages"? Do you get extra points as if it were two fed cottages, three points each?
+
+"It is fed the same way a cottage is fed, which depends on which red building is in play. 
+So for example: if you had the red building that feeds cottages in the 8 spaces around it, you'll have to build the Barrett Castle in one of those 8 spaces."
+The 2 cottage thing refers to buildings like Chapel or Temple. Temple needs to be adjacent to 2 fed cottages, if it's adjacent to a fed Barret's Castle, that would would count.
 
 [starloom-monument-card-need-clarification](https://boardgamegeek.com/thread/2210181/starloom-monument-card-need-clarification)
 
