@@ -479,14 +479,33 @@ The 2 cottage thing refers to buildings like Chapel or Temple. Temple needs to b
 [starloom-monument-card-need-clarification](https://boardgamegeek.com/thread/2210181/starloom-monument-card-need-clarification)
 
 [what-does-contiguous-mean-in-tiny-towns](https://boardgamegeek.com/thread/2222153/what-does-contiguous-mean-in-tiny-towns)
+> If you had a group of 5 buildings of the same type arranged to make a plus sign, would that entire group of buildings be considered contiguous or would it only count as 3 contiguous buildings?
 
+ it's simply the largest group of buildings orthogonally adjacent to each other, so all 5.
+ 
 [tiny-towns-rules](https://boardgamegeek.com/thread/2211946/tiny-towns-rules)
+> When placing colors in my town, while trying to build, say a cottage or whatever, another player may call out a color I don't want. Not only that but I may have to place it such that it can build something other than what I intended.
+> In such a case would I be forced to build something I don't want?
+
+The rules do indeed give the answer Under point 3 of the Round Overview: "Players may construct any buildings for which they have the matching resources in the correct shape". In addition, under Completing Your Town, it says "When your town is filled with resources and you cannot (or choose not to) construct any buildings.
 
 [removing-resource-cubes](https://boardgamegeek.com/thread/2487511/removing-resource-cubes)
+> Once placed on the board, is there no way to remove a cube from the board?
+
+The idea of leaving ressource cubes on the board adds the aspect of planning. If you could remove ressource cubes, I believe it lessens considerably the importance of decisions you make.
+So normally you aren't to remove a cube from the board. But, if you want to make a house rule to lighten the mood of the game, feel free to do so. 
 
 [barrett-castle-plus-opaleyes-watch-question](https://boardgamegeek.com/thread/2231961/barrett-castle-plus-opaleyes-watch-question)
+> Suppose I've built an Opaleye's Watch and put a cottage as one of its 3 unique buildings.
+> Then, suppose my left player builds his Barrett Castle.
+> Can I freely build a cottage on my Opaleye's Watch since Barrett Castle is counted as 2 cottages?
+
+No. Barrett Castle only counts as two cottages when scoring.
 
 [what-happens-when-you-run-out-of-resource-cubes](https://boardgamegeek.com/thread/2536786/what-happens-when-you-run-out-of-resource-cubes)
+>  We were playing tiny towns as a family when my son decided to not build and hoard a resource. When it was time to call it was called but not available. So what do we do?
+
+All resources and buildings are unlimited (Page 5 in Additional Rules), so you would need to substitute that resource with somethin else (Maybe with other game pieces).
 
 [solo-refill-resource-timing](https://boardgamegeek.com/thread/2497254/solo-refill-resource-timing)
 
