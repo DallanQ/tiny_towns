@@ -266,20 +266,54 @@ Yes. it can be used to replace the monument itself with another non-monument bui
 [mirror-placement](https://boardgamegeek.com/thread/2432875/mirror-placement)
 
 [bank-question](https://boardgamegeek.com/thread/2184704/bank-question)
+> In Bank building, I have to put one resource on the Bank. Do I take it from the general supply or my town grid?
+
+The resource comes from the general supply.
 
 [rules-clarification-the-inn](https://boardgamegeek.com/thread/2229954/rules-clarification-the-inn)
+> About the Inn. Are you able to score for it a maximum of 4 times (in a diagonal)?
+
+Yes, only possible to score it a max of 4 times. The rulebook says it's worth 0 points if another inn is the same column or row. Also it wouldn't have to be diagonal. The classic Four Queens solution would also work. 
+For instance:
+ - - I -
+ I - - -
+ - - - I
+ - I - -
+ And, as long as they don't cross paths, you can do this as well:
+ - - I -
+ - - - I
+ I - - -
+ - I - -
 
 [opaleye-s-watch-vs-grove-university](https://boardgamegeek.com/thread/2340023/opaleye-s-watch-vs-grove-university)
+> Could Opaleye's Watch be triggered by a building constructed in the same turn.
+
+No, because buildings are constructed before monument abilities trigger.
 
 [is-adjacent-only-orthogonal](https://boardgamegeek.com/thread/2728004/is-adjacent-only-orthogonal)
+> I‘m wondering if for the fountain and in general "adjacent" only mean horizonal and vertical or as well diagonal?
+
+Not diagonal. For further clarity, page 7 of the rulebook states, "Fountains cannot score more than 2 VP. Adjacent refers to up, down, left, and right, not diagonal."
 
 [market-question](https://boardgamegeek.com/thread/2235630/market-question)
+> The Market card states: "1 VP for each Market in the same row or column (not both) as Market."
+> Do 1, single Market on the board still scores 1 VP at the end of the game?
+> For example, on the Tailor card, the scoring information starts with "1VP. +1 VP.... " and on the Market card there is no "1VP." at the beginning of the description.
+
+Yes a single market still counts as 1VP. It will always be in the same row/column as itself.
+Off the top of my head the Tailor reads 1vp + 1 vp per... as the Tailor doesn't have to be or may not be in the additional scoring area (which I think was the middle 4 squares). So a single tailor in the corner of the board would be 1vp, while a single tailor in the middle of the board would be 2vp. If you had 2 tailors, 1 in the middle and one on the edge they would be worth 2vp each, while if both were in the middle of the board they would be 3vp each.
 
 [trading-post-question](https://boardgamegeek.com/thread/2207539/trading-post-question)
 
 [how-does-monastery-work-villagers-expansion](https://boardgamegeek.com/thread/2798411/how-does-monastery-work-villagers-expansion)
+> How would Monastery from the Villagers expansion work in this situation? Monastery and a fed village are in opposite corners of the board. Would this be 5 spaces orthogonally or would you count the 2 diagonal spaces instead?
+
+You go orthogonally. So 5 spaces in between.
 
 [factory-with-multiple-cubes](https://boardgamegeek.com/thread/2213968/factory-with-multiple-cubes)
+>  Can i only put one cube on a factory.
+
+That's correct, you can only put one cube on a factory when you build it. For the remainder of the game when somebody calls that resource, you may choose to place a different resource instead. Thus, a Factory can never contain more than one cube. But you can have multiple factories with different resources. Warehouses, however, can hold up to 3 resources.
 
 [recommended-of-fortune-buildings](https://boardgamegeek.com/thread/2449442/recommended-of-fortune-buildings)
 
