@@ -318,12 +318,23 @@ That's correct, you can only put one cube on a factory when you build it. For th
 [recommended-of-fortune-buildings](https://boardgamegeek.com/thread/2449442/recommended-of-fortune-buildings)
 
 [further-clarifications-on-the-bakery](https://boardgamegeek.com/thread/2556282/further-clarifications-on-the-bakery)
+> Two bakeries adjacent to two farms. Do the bakeries score for each farm they’re adjacent to? The above would be 12 points or 6 points?
+
+Neither, it's 3VP if adjacent to farm or factory, not 3VP per farm or factory,
+The most a Bakery can be worth is 3VP
 
 [silva-forum](https://boardgamegeek.com/thread/2645782/silva-forum)
+> What does the card "Silva Forum" mean?
+> Silva Forum: A contiguous group refers to buildings that are adjacent to one another
+
+It basically is asking for you to look for your biggest cluster of your type of building. eg. 5 cottages together in a group or 4 taverns grouped together. 
 
 [phase-1-in-solo-ressource-only-from-cards](https://boardgamegeek.com/thread/3338158/phase-1-in-solo-ressource-only-from-cards)
 
 [factory-in-singleplayer-and-town-hall-mode](https://boardgamegeek.com/thread/2439390/factory-in-singleplayer-and-town-hall-mode)
+> How does the factory in singelplayer and town hall mode work?
+
+In Town Hall mode all effects that say when another player as master builder will refer to the cards from the deck. So whenever the deck reveals a wheat (and wheat is on your factory) you will get to place a resource of your choice. When a card, such as bank, refers to your choices and master builder. This refers to the times when you can place any resource of your choice.
 
 [cavern-rule-clarification](https://boardgamegeek.com/thread/2201735/cavern-rule-clarification)
 
