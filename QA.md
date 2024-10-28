@@ -337,18 +337,56 @@ It basically is asking for you to look for your biggest cluster of your type of 
 In Town Hall mode all effects that say when another player as master builder will refer to the cards from the deck. So whenever the deck reveals a wheat (and wheat is on your factory) you will get to place a resource of your choice. When a card, such as bank, refers to your choices and master builder. This refers to the times when you can place any resource of your choice.
 
 [cavern-rule-clarification](https://boardgamegeek.com/thread/2201735/cavern-rule-clarification)
+> Can the resources in the Cavern be used later in the game instead of what is selected by the Master Builder?
+
+No, those resources are simply discarded and cannot be used later.
+However, some people like to use a house rule, in which you can swap the new resource by one stored previously in the cavern. This make the game a bit easier, and for some people, even more fun.
 
 [clarification-about-statue-of-the-bondmaker](https://boardgamegeek.com/thread/2206868/clarification-about-statue-of-the-bondmaker)
+> Do I still have to count the stored on cottage resource at the end as a negative?
+
+You don't count resources on your board as negative points - at the end of the game you take resources off of your board and count empty spaces as negative points. After taking the resource off the cottage the space will not be empty.
 
 [town-hall-rules-note](https://boardgamegeek.com/thread/2232606/town-hall-rules-note)
+> In page 6:
+> Quote:
+> Note: In this, Building and Monument cards that
+refer to other players naming resources (Factory,
+Warehouse, Statue of the Bondmaker) apply to
+rounds in which the Mayor draws a Resource
+card.
+> What does "apply to rounds in which the mayor draws a Resource card" mean? "also apply to?" or "apply only to"(meaning that they only apply to the 1st and 2nd rounds, but not the 3rd rounds of the round-cycles)
+
+Maybe read it without the ()'s:
+... refer to other players naming resources apply to rounds in which the Mayor draws a Resource card.
+So the second option. Just think of it as when the mayor is drawing a card, it's someone else's turn and those abilities apply. When it's a free-pick, it's like you are the master builder in a normal game and hence those abilities don't apply.
 
 [vegetable-patch-clarification](https://boardgamegeek.com/thread/3032053/vegetable-patch-clarification)
+> The card states it can feed up to six cottages that aren't adjacent to other cottage buildings.
+> Curious if this is orthogonal (so top, right, bottom, left) or if it ALSO includes diagonal adjacency.?
+
+Adjacency does not include diagonals. From page 5, under Additional Rules: ""Adjacent" means up, down, left, and right."
 
 [clarifying-the-required-pattern](https://boardgamegeek.com/thread/2209901/clarifying-the-required-pattern)
+> Can you build in any color arrangement and not that on the card as long as the colors are the same? or it has to be that exact pattern in any orientation?
+
+Yes, it has to be that exact pattern in any orientation. Rotating, flipping or mirroring the pattern is fine, but the pattern still has to be in the correct arrangement.
 
 [score-sheet-clarification](https://boardgamegeek.com/thread/3165254/score-sheet-clarification)
+> On the score sheet, below monument row there is a map icon with a red X through it. What does this mean and how does it score?
+
+It means you have to count the empty spaces (without a building, but with a token) on your board. For every empty space you will get a negative point.
 
 [rule-clarification-mandras-palace](https://boardgamegeek.com/thread/2230156/rule-clarification-mandras-palace)
+> In Mandras Palace, what does 2 VP for each unique adjacent building type mean?
+> I understand if I have a red and a blue building adjacent, this will score 4 ?
+> What if I also have a green and a blue, will this also score me 4 ? Or will it not because the blue one isn't unique anymore ?
+> What if I have 3 different building types in a row ?
+> What does unique in this setting even mean ? One of a kind on the board Different ?
+> Or do unique buildings need to be adjacent to the monument ? If so, does the monument count as à unique building as well ?
+
+The Palace can score at most 8 points, by having 4 different building types orthogonally adjacent to it. Unique simply means that you can only score for different buildings e.g. if you have more than one Cottage adjacent, you’ll only score for one of them. The Palace doesn’t count as it is not adjacent to itself.
+The explanation for the Theatre in the rules, explains what unique means in the context of this game.
 
 [clarification-grand-mausoleum-of-the-rodina](https://boardgamegeek.com/thread/2212313/clarification-grand-mausoleum-of-the-rodina)
 
