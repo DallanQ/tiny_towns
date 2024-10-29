@@ -508,22 +508,57 @@ No. Barrett Castle only counts as two cottages when scoring.
 All resources and buildings are unlimited (Page 5 in Additional Rules), so you would need to substitute that resource with somethin else (Maybe with other game pieces).
 
 [solo-refill-resource-timing](https://boardgamegeek.com/thread/2497254/solo-refill-resource-timing)
+>  In Solo mode, i wanted to confirm the timing of replacing the chosen resource card with a new card.
+> This is how I think it works:
+> 1. Choose a resource from the 3 available cards
+> 2. Take resource cube and place it
+> 3. Put chosen card to bottom of deck and draw a new card
+> 4. Build any buildings if you wish
+> If the card instead gets replaced after the building phase am i to build something or wait.
+
+The Rulebook is clear on this: Drawing a new card is the last step.
+Quote:
+You choose to place any 1 of the 3 resources shown in your town and construct buildings as normal. Then place the corresponding card face-down on the bottom of the draw pile and draw a new Resource card to replace it.
 
 [warehouse-storage-question](https://boardgamegeek.com/thread/2353783/warehouse-storage-question)
+> Are you not allowed to use the warehouse if you are the master builder for both placing and swapping?
+> If this is the case, in the card draw variant would the time you get to pick any resource be equivalent to being master build and prevent you from using the warehouse?
+
+Yes and yes.
+Basically, the idea is that "whenever you may not choose the resource anyway" you may use the warehouse.
 
 [5-banks](https://boardgamegeek.com/thread/2202189/5-banks)
+> What happens when you have 5 banks and are last player to pass?
+
+If you have 5 Banks and are the last player still going, then you would be forced to declare your town "complete."
+This is an exception to the normal game end trigger.
 
 [does-zero-count-for-the-public-house](https://boardgamegeek.com/thread/3044364/does-zero-count-for-the-public-house)
+> Does having zero of a building type would give you a point for the public house, as zero is an even number.
+> Public House: “1 point per unique building type you have an even number of in your town.”
+
+No. The rules state "per unique building type you HAVE an even number of"
+While zero is an even number, if there is a building type there are zero of in your town, or rather none of in your town, then you don't "have" any in your town.
 
 [feast-hall-points](https://boardgamegeek.com/thread/2798176/feast-hall-points)
 
 [barrett-castle-too-powerful](https://boardgamegeek.com/thread/2172550/barrett-castle-too-powerful)
+> Is Barrett Castle too powerful? For instace: In our first game, it earned a player 17 points. The card itself has a bonus of 5 points if fed. Then, since it is worth 2 cottages, another 6 points since it was fed. This seems to be doubling-dipping. The player was smart to also have built 3 chapels, gaining 6 more points from this “2 cottage” equivalent.
+> Are we misunderstanding the scoring for this monument card?
+
+Barrett Castle is only worth 5 points if fed (no additional points for counting as two Cottages). It is treated as two Cottages for the purposes of things like Chapel and Well, however.
 
 [theater](https://boardgamegeek.com/thread/3344045/theater)
+> For the purposes of scoring a theater… let's call it Theater A. If you have another theater (Theater B) in the same row or column, does Theater B count as a "unique" building when scoring Theater A? And vice versa?
+
+No, Theaters don't count.
 
 [scoring-clarification-barrett-castle-and-contiguou](https://boardgamegeek.com/thread/2541166/scoring-clarification-barrett-castle-and-contiguou)
 
 [temple-card-question-in-solo](https://boardgamegeek.com/thread/3303509/temple-card-question-in-solo)
 
 [shrine-of-the-elder-tree](https://boardgamegeek.com/thread/2203774/shrine-of-the-elder-tree)
+> Is Shrine of the Elder tree an end game scoring or is it scored at the time of building?
 
+It's scored at the end of the game, but its score is based on when you built it.
+I usually put a cube on the card to help remember.
