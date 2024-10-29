@@ -274,16 +274,6 @@ The resource comes from the general supply.
 > About the Inn. Are you able to score for it a maximum of 4 times (in a diagonal)?
 
 Yes, only possible to score it a max of 4 times. The rulebook says it's worth 0 points if another inn is the same column or row. Also it wouldn't have to be diagonal. The classic Four Queens solution would also work. 
-For instance:
- - - I -
- I - - -
- - - - I
- - I - -
- And, as long as they don't cross paths, you can do this as well:
- - - I -
- - - - I
- I - - -
- - I - -
 
 [opaleye-s-watch-vs-grove-university](https://boardgamegeek.com/thread/2340023/opaleye-s-watch-vs-grove-university)
 > Could Opaleye's Watch be triggered by a building constructed in the same turn.
