@@ -136,7 +136,7 @@ This isnt allowed, since the configuration of the cubes does not match the Chape
 
 ### Feeding your cottages (page 5)
 
-Remember! Cottages must be fed by Farm / Granary / Greenhouse / Orchard (red building icon) buildings, to be worth 3 points. Players may construct Cottages before or after constructing Farm / Granary / Greenhouse / Orchad (red building icon) buildings, but unfed Cottages at game end score 0 points.
+Remember! Cottages (blue building icon) must be fed by Farm / Granary / Greenhouse / Orchard (red building icon) buildings, to be worth 3 points. Players may construct Cottages before or after constructing Farm / Granary / Greenhouse / Orchad (red building icon) buildings, but unfed Cottages at game end score 0 points.
 
 ## Completing Your Town (page 5)
 
@@ -207,7 +207,7 @@ There is no Master Builder in the Solo variant.
 
 Remove the following cards from the game when playing the solo variant:
 
-The Inn, The bank, Fort Ironweed and Opaleye's Watch.
+The Inn(green building icon), The bank(black building icon), Fort Ironweed(monument icon) and Opaleye's Watch.(monument icon)
 
 ### Solo rules (page 6)
 
@@ -232,35 +232,35 @@ Check your score against the chart below:
 
 ### Cottage (blue building icon) (page 7)
 
-Unfed Cottages remain on the board but do not score points on their own. Some other buildings, such as Wells, treat fed and unfed Cottages the same. You may construct Cottages even if you don't yet have a Farm / Granary / Greenhouse / Orchard (red building icon) building.
+Unfed **Cottages** remain on the board but do not score points on their own. Some other buildings, such as **Wells**, treat fed and unfed **Cottages** the same. You may construct **Cottages** even if you don't yet have a Farm / Granary / Greenhouse / Orchard (red building icon) building.
 
 ### Farm (red building icon) (page 7)
 
-Farms feed 4 Cottages anywhere on the board.
+**Farms** feed 4 Cottages anywhere on the board.
 
 ### Granary (red building icon) (page 7)
 
-Granaries only feed Cottages in the immediate surrounding squares (up, down, left, right, and diagonal), for a maximum of 8 Cottages.
+**Granaries** only feed Cottages in the immediate surrounding squares (up, down, left, right, and diagonal), for a maximum of 8 Cottages.
 
 ### Greenhouse (red building icon) (page 7)
 
-Greenhouses feed 1 contiguous group of Cottages that are adjacent (up, down, left, and right) to each other. This group does not have to be adjacent to a Greenhouse.
+**Greenhouses** feed 1 contiguous group of Cottages that are adjacent (up, down, left, and right) to each other. This group does not have to be adjacent to a Greenhouse.
 
 ### Orchard (red building icon) (page 7)
 
-Orchards will always feed a maximum of 6 Cottages no matter where they are placed.
+**Orchards** will always feed a maximum of 6 Cottages no matter where they are placed.
 
 ### Fountain (grey circle icon) (page 7)
 
-Fountains cannot score more than 2 points. Adjacent refers to up, down, left, and right, not diagonal.
+**Fountains** cannot score more than 2 points. Adjacent refers to up, down, left, and right, not diagonal.
 
 ### Millstone (grey circle icon) (page 7)
 
-Millstones cannot score more than 2 points. even if they are adjacent to multiple Farm / Granary / Greenhouse / Orchard (red building icon) buildings or Bakery / Market / Tailor / Theater (yellow building icon) buildings.
+**Millstones** cannot score more than 2 points. even if they are adjacent to multiple Farm / Granary / Greenhouse / Orchard (red building icon) buildings or Bakery / Market / Tailor / Theater (yellow building icon) buildings.
 
 ### Shed (grey circle icon) (page 7)
 
-Sheds are not restricted to being placed in the 2 squares their resources came from when constructed, but may be placed in any empty square on the board.
+**Sheds** are not restricted to being placed in the 2 squares their resources came from when constructed, but may be placed in any empty square on the board.
 
 ### Well (grey circle icon) (page 7)
 
@@ -268,27 +268,27 @@ Adjacent refers to up, down, left, and right, not diagonal. Adjacent fed and unf
 
 ### Abbey (orange church icon) (page 7)
 
-Abbeys like to be isolated. If an Abbey is adjacent (up, down, left, and right) to any of Almshouse / Feast Hall / Inn / Tavern (green building icon) buildings, or Bakery / Market / Tailor / Theater (yellow building icon) buildings, or Bank / Factory / Trading Post / Warehouse (black building icon) buildings, it is worth 0 points.
+**Abbeys** like to be isolated. If an **Abbey** is adjacent (up, down, left, and right) to any of Almshouse / Feast Hall / Inn / Tavern (green building icon) buildings, or Bakery / Market / Tailor / Theater (yellow building icon) buildings, or Bank / Factory / Trading Post / Warehouse (black building icon) buildings, it is worth 0 points.
 
 ### Chapel (orange church icon) (page 7)
 
-Score Chapels individually. A town with 3 fed Cottages and 1 unfed Cottage will make each Chapel worth 3 points (Chapels do not earn points for unfed Cottages.)
+Score **Chapels** individually. A town with 3 fed Cottages and 1 unfed Cottage will make each Chapel worth 3 points (Chapels do not earn points for unfed Cottages.)
 
 ### Cloister (orange church icon) (page 7)
 
-Cloisters not placed in a corner will still score 1 point for each other. Cloister placed in a corner. The maximum a Cloister can score is 4 points.
+**Cloisters** not placed in a corner will still score 1 point for each other. Cloister placed in a corner. The maximum a Cloister can score is 4 points.
 
 ### Temple (orange church icon) (page 7)
 
-Temples are worth 0 points if they are not adjacent to at least 2 Cottages.
+**Temples** are worth 0 points if they are not adjacent to at least 2 Cottages.
 
 ### Almshouse (green building icon) (page 7)
 
-The maximum Almshouse score is 26 points. If you construct more than 6 Almshouses, the total Almshouse score is still 26 points.
+The maximum **Almshouse** score is 26 points. If you construct more than 6 **Almshouses**, the total **Almshouse** score is still 26 points.
 
 ### Feast Hall (green building icon) (page 7)
 
-If you tie with the player to your right, your Feast Halls are only worth 2 points. In a 2-player game, Feast Halls are worth 3 points to the player with the most and 2 points to the player with the least or 2 points if tied.
+If you tie with the player to your right, your **Feast Halls** are only worth 2 points. In a 2-player game, **Feast Halls** are worth 3 points to the player with the most and 2 points to the player with the least or 2 points if tied.
 
 ### Inn (green building icon) (page 7)
 
@@ -296,7 +296,7 @@ Inns in the same row or column are worth 0 points.
 
 ### Tavern (green building icon) (page 7)
 
-Taverns score points as a group. For example, 4 Taverns are worth 14 points total (but can be anywhere on the board). Any Taverns constructed after the 5th Tavern do not increase your Tavern score.
+**Taverns** score points as a group. For example, 4 **Taverns** are worth 14 points total (but can be anywhere on the board). Any **Taverns** constructed after the 5th **Tavern** do not increase your Tavern score.
 
 ### Bakery (yellow building icon) (page 7)
 
@@ -304,37 +304,37 @@ Adjacent refers to up, down, left, and right, not diagonal.
 
 ### Market (yellow building icon) (page 7)
 
-Markets score for either a row or column, but not both. Markets always score 1 point for themselves in addition to any other Markets in the same row or column, for a maximum score of 4 points.
+**Markets** score for either a row or column, but not both. **Markets** always score 1 point for themselves in addition to any other **Markets** in the same row or column, for a maximum score of 4 points.
 
 ### Tailor (yellow building icon) (page 7)
 
-Tailors not constructed in the 4 center squares are still worth 1 point plus 1 point for each other tailor in the 4 center squares. The maximum a Tailor can score in total is 5 points.
+**Tailors** not constructed in the 4 center squares are still worth 1 point plus 1 point for each other **tailor** in the 4 center squares. The maximum a **Tailor** can score in total is 5 points.
 
 ### Theater (yellow building icon) (page 7)
 
-A Theater's score is the total number of unique building types besides Theater that share a row or column with that Theater, for a maximum score of 6 points. If there are buildings of the same type in both the same row and column as Theater, that building type only counts once toward Theater's score. Monument counts as a unique building type (unless it is Barrett Castle, which counts as 2 Cottages.
+A **Theater's** score is the total number of unique building types besides **Theater** that share a row or column with that **Theater**, for a maximum score of 6 points. If there are buildings of the same type in both the same row and column as **Theater**, that building type only counts once toward **Theater's** score. Monument counts as a unique building type (unless it is Barrett Castle, which counts as 2 Cottages.
 
 ### Bank (black building icon) (page 7)
 
-You cannot construct more than 5 Banks, since there would be no resource for them to hold.
+You cannot construct more than 5 **Banks**, since there would be no resource for them to hold.
 
 ### Factory (black building icon) (page 7)
 
-You may choose for multiple Factories to hold the same resource, but it offers you no advantage.
+You may choose for multiple **Factories** to hold the same resource, but it offers you no advantage.
 
 ### Trading Post (black building icon) (page 7)
 
-Trading Posts can be used in the layout of any future buildings. When you construct a building that used a Trading Post as a resource, you do not remove the Trading Post from its square. You can use multiple Trading Posts to construct a single building, but at least 1 non-Trading Post resource must be used.
+**Trading Posts** can be used in the layout of any future buildings. When you construct a building that used a **Trading Post** as a resource, you do not remove the **Trading Post** from its square. You can use multiple **Trading Posts** to construct a single building, but at least 1 non-Trading Post resource must be used.
 
 ### Warehouse (black building icon) (page 7)
 
-You can store up to 3 resources with a Warehouse by physically placing the cubes on the building. When another player names a resource that you do not want, place the resource on your Warehouse. You may remove a resource from your Warehouse and place it in an empty square on your board when you do this. You can never remove a resource without placing a new resource on the Warehouse. As a result, the number of resources on a Warehouse will never decrease.
+You can store up to 3 resources with a **Warehouse** by physically placing the cubes on the building. When another player names a resource that you do not want, place the resource on your **Warehouse.** You may remove a resource from your **Warehouse** and place it in an empty square on your board when you do this. You can never remove a resource without placing a new resource on the **Warehouse.** As a result, the number of resources on a **Warehouse** will never decrease.
 
 ## Monument Clarifications (page 8)
 
 ### Architect's Guild (monument icon) (page 8)
 
-You may choose not to use the ability of the Architect's Guild, but you cannot use it later. The buildings you place may be the same type or 2 different types. You cannot change buildings into monuments, since they are not in the general supply.
+You may choose not to use the ability of the **Architect's Guild**, but you cannot use it later. The buildings you place may be the same type or 2 different types. You cannot change buildings into monuments, since they are not in the general supply.
 
 ### Archive Of The Second Age (monument icon) (page 8)
 
@@ -342,7 +342,7 @@ It does not matter where buildings are located for scoring this monument.
 
 ### Barrett Castle (monument icon) (page 8)
 
-For all building scoring, Barrett Castle counts as 2 Cottages and not a Monument.
+For all building scoring, **Barrett Castle** counts as 2 Cottages and not a Monument.
 
 ### Cathedral Of Caterina (monument icon) (page 8)
 
@@ -354,7 +354,7 @@ Once this monument is constructed, you may not be Master Builder and must pass t
 
 ### Grove University (monument icon) (page 8)
 
-You cannot place a monument after constructing Grove University since monuments are not in the general supply.
+You cannot place a monument after constructing **Grove University** since monuments are not in the general supply.
 
 ### Mandras Palace (monument icon) (page 8)
 
