@@ -230,7 +230,7 @@ Check your score against the chart below:
 | 10-17 | Builder's Apprentice |
 | 9 or less | Aspiring Architect |
 
-## Building clarifications (page 7)
+## BUILDING CLARIFICATIONS (page 7)
 
 #### Cottage (blue building icon) (page 7)
 
@@ -266,7 +266,7 @@ Unfed **Cottages** remain on the board but do not score points on their own. Som
 
 #### Well (grey circle icon) (page 7)
 
-Adjacent refers to up, down, left, and right, not diagonal. Adjacent fed and unfed (blue building icon)  Cottages score 1 point.
+Adjacent refers to up, down, left, and right, not diagonal. Adjacent fed and unfed Cottages score 1 point.
 
 #### Abbey (orange church icon) (page 7)
 
@@ -274,7 +274,7 @@ Adjacent refers to up, down, left, and right, not diagonal. Adjacent fed and unf
 
 #### Chapel (orange church icon) (page 7)
 
-Score **Chapels** individually. A town with 3 fed (blue building icon)  Cottages and 1 unfed (blue building icon) Cottage will make each Chapel worth 3 points (Chapels do not earn points for unfed (blue building icon)  Cottages.)
+Score **Chapels** individually. A town with 3 fed (blue building icon)  Cottages and 1 unfed (blue building icon) Cottage will make each Chapel worth 3 points (**Chapels** do not earn points for unfed Cottages).
 
 #### Cloister (orange church icon) (page 7)
 
@@ -282,7 +282,7 @@ Score **Chapels** individually. A town with 3 fed (blue building icon)  Cottages
 
 #### Temple (orange church icon) (page 7)
 
-**Temples** are worth 0 points if they are not adjacent to at least 2 (blue building icon)  Cottages.
+**Temples** are worth 0 points if they are not adjacent to at least 2 Cottages.
 
 #### Almshouse (green building icon) (page 7)
 
@@ -314,7 +314,7 @@ Adjacent refers to up, down, left, and right, not diagonal.
 
 #### Theater (yellow building icon) (page 7)
 
-A **Theater's** score is the total number of unique building types besides **Theater** that share a row or column with that **Theater**, for a maximum score of 6 points. If there are buildings of the same type in both the same row and column as **Theater**, that building type only counts once toward **Theater's** score. Monument counts as a unique building type (unless it is Barrett Castle, which counts as 2 (blue building icon)  Cottages).
+A **Theater's** score is the total number of unique building types besides **Theater** that share a row or column with that **Theater**, for a maximum score of 6 points. If there are buildings of the same type in both the same row and column as **Theater**, that building type only counts once toward **Theater's** score. Monument counts as a unique building type (unless it is Barrett Castle, which counts as 2 Cottages).
 
 #### Bank (black building icon) (page 7)
 
@@ -334,50 +334,50 @@ You can store up to 3 resources with a **Warehouse** by physically placing the c
 
 ## MONUMENT CLARIFICATIONS (page 8)
 
-### Architect's Guild (monument icon) (page 8)
+#### Architect's Guild (monument icon) (page 8)
 
 You may choose not to use the ability of the **Architect's Guild**, but you cannot use it later. The buildings you place may be the same type or 2 different types. You cannot change buildings into monuments, since they are not in the general supply.
 
-### Archive Of The Second Age (monument icon) (page 8)
+#### Archive Of The Second Age (monument icon) (page 8)
 
 It does not matter where buildings are located for scoring this monument.
 
-### Barrett Castle (monument icon) (page 8)
+#### Barrett Castle (monument icon) (page 8)
 
 For all building scoring, **Barrett Castle** counts as 2 Cottages and not a Monument.
 
-### Cathedral Of Caterina (monument icon) (page 8)
+#### Cathedral Of Caterina (monument icon) (page 8)
 
 This applies only to empty squares on your own board.
 
-### Fort Ironweed (monument icon) (page 8)
+#### Fort Ironweed (monument icon) (page 8)
 
 Once this monument is constructed, you may not be Master Builder and must pass the token to the player on your left, unless you are the last player in the game.
 
-### Grove University (monument icon) (page 8)
+#### Grove University (monument icon) (page 8)
 
 You cannot place a monument after constructing **Grove University** since monuments are not in the general supply.
 
-### Mandras Palace (monument icon) (page 8)
+#### Mandras Palace (monument icon) (page 8)
 
 Adjacent refers to up, down, left, and right, not diagonal.
 
-### Opaleye's Watch (monument icon) (page 8)
+#### Opaleye's Watch (monument icon) (page 8)
 
 You may not choose monument as a building type for this card, since it is not in the general supply.
 
-### Shrine Of The Elder Tree (monument icon) (page 8)
+#### Shrine Of The Elder Tree (monument icon) (page 8)
 
 If this is the 7th or later building you construct, it still only scores 8 points.
 
-### Silva Forum (monument icon) (page 8)
+#### Silva Forum (monument icon) (page 8)
 
 A contiguous group refers to buildings that are adjacent to one another.
 
-### The Starloom (monument icon) (page 8)
+#### The Starloom (monument icon) (page 8)
 
 You score the full points for 1st, 2nd, or 3rd if you complete your town in the same round as (tie with) another player.
 
-### Statue Of The Bondmaker (monument icon) (page 8)
+#### Statue Of The Bondmaker (monument icon) (page 8)
 
 Resources on squares containing cottages cannot be used to construct Buildings.
