@@ -6,9 +6,12 @@
 > 1 pt for each cloister in the corners.
 > If you have 4 cloisters in the corner, is it 16 pts or 4 pts?
 
-Building Clarifications on page 7 of the rulebook explain that "Cloisters not placed in a corner will still score 1 point for each other Cloister placed in a corner. The maximum a Cloister can score is 4 points."
+Each Cloister can be worth up to 4 points. Four Cloisters in the corners plus one additional Cloister anywhere else on the board would be worth a total of 20 points.
 
-So, each Cloister can be worth up to 4 points. Four Cloisters in the corners plus one additional Cloister anywhere else on the board would be worth a total of 20 points.
+----
+Page 7
+
+Cloisters not placed in a corner will still score 1 point for each other. Cloister placed in a corner. The maximum a Cloister can score is 4 points.
 
 [how-do-i-score-duplicates-of-these-buildings](https://boardgamegeek.com/thread/2205753/how-do-i-score-duplicates-of-these-buildings)
 
@@ -26,11 +29,17 @@ Farms do not score at all; they feed cottages.
 A cottage scores if it is fed. It doesn’t matter if it’s fed twice. The cottage doesn’t say “Score points each time it’s fed.” So you look at your board and say “This farm is gonna feed those 4 cottages, so they each score. This other farm is gonna feed those other 4 cottages so they score. This 9th cottage is left unfed so it doesn’t score.” Etc.
 In your example, 2 Taverns are worth 5 points total, and 2 Almshouses are worth 5 points total.
 
+----
+Page 7
+
+Taverns score points as a group. For example, 4 Taverns are worth 14 points total (but can be anywhere on the board). Any Taverns constructed after the 5th Tavern do not increase your Tavern score.
+
+----
+Page 5
+
+***Remember!*** Cottages (blue building icon) must be fed by Farm / Granary / Greenhouse / Orchard (red building icon) buildings, to be worth 3 points. Players may construct Cottages before or after constructing Farm / Granary / Greenhouse / Orchard (red building icon) buildings, but unfed Cottages at game end score 0 points.
+
 [can-cubes-on-factories-be-used-in-building-pattern](https://boardgamegeek.com/thread/2333380/can-cubes-on-factories-be-used-in-building-pattern)
-
-> Are the cubes on factories just there for the "you can pick another color" power? Or are they also permanent resources that can be used in patterns for other structures?
-
-They are only there for the pick another color power. It is only when the dark blue card is a Trading Post that you can use the building itself as a "wild" of any cube color in the spot that the trading post occupies.
 
 [yet-another-factory-question](https://boardgamegeek.com/thread/2327785/yet-another-factory-question)
 
@@ -38,11 +47,12 @@ They are only there for the pick another color power. It is only when the dark b
 
 Yes, but it is not a good strategy. You burn 5 spaces that don't score points.
 
+----
+Page 7
+
+You may choose for multiple Factories to hold the same resource, but it offers you no advantage.
+
 [bank](https://boardgamegeek.com/thread/2613594/bank)
-
-> What's the point of building a Bank when you limit yourself and can't name a color when you are a Master Builder?
-
-The purpose of building the Bank is that it scores you relatively higher than other buildings. The downside is you can't call for that specific resource anymore, so each Bank you build limits you further.
 
 [cottages-and-greenhouse](https://boardgamegeek.com/thread/2350096/cottages-and-greenhouse)
 
@@ -58,19 +68,21 @@ A turn works like this:
 4) Abilities are triggered
 Since you choose the buildings in step 4 they wouldn't get to trigger buildings from step 3
 
+----
+Page 4 
+
+The Master Builder names a type of resource. (Wood, Wheat, Brick, Glass, or Stone)
+
+All players MUST take a cube of this resource and place it in an empty square in their town grid. Players do this simultaneously.
+
+Players may construct any buildings for which they have the matching resources in the correct shape. Players do this simultaneously and should announce what building they are constructing.
+
+Once all players have placed their resources and constructed buildings, a new round begins. The Master Builder token passes to the player on the left.
+
 [further-clarification-on-the-bank](https://boardgamegeek.com/thread/2460501/further-clarification-on-the-bank)
 
-> Why would you build the Bank, other than a four point bonus reason. It seems to indicate you can put a resource on there but for what reason? If you can't pick a resource of your choice when your chosen resource is called out, why do it? Also, it says you can't choose a resource if you are master builder. So if you are playing the town hall variant, you aren't taking turns to be the master builder.
-
-The point is that it is worth 4 points. It adds a tiny restriction on you in return.
-If you put a resource on the Bank, you can't call for that resource when you are the master builder, you can still add it to your town if other players call it.
-In the town hall variant, you can't choose that resource every 3rd turn when it is your choice on what resource to take.
 
 [can-the-same-trading-post-be-used-to-build-two-sep](https://boardgamegeek.com/thread/2897690/can-the-same-trading-post-be-used-to-build-two-sep)
-
-> Can the same trading post be used to build two separate buildings on the same turn, given that a square with a resource cannot be used for two buildings in the same turn?
-
-Yes, Nothing forbid to use the same trading post to build two (or more) separate buildings on the same turn so you can.
 
 [fortune-building-two-gamblers-dens-at-the-same-tim](https://boardgamegeek.com/thread/2770499/fortune-building-two-gamblers-dens-at-the-same-tim)
 
@@ -79,6 +91,11 @@ Yes, Nothing forbid to use the same trading post to build two (or more) separate
 > While constructing a building: are mirror images allowed?
 
 The rules say that mirrored/flopped are both OK under Building Construction Rules.
+
+----
+Page 4
+
+Building layouts may be mirrored/flipped and rotated, as long as the configuration of resources remains the same. To construct a building:
 
 [theater-scoring-question](https://boardgamegeek.com/thread/2353203/theater-scoring-question)
 
@@ -96,15 +113,6 @@ No. Page 7 of the rules says, "Theater’s score is the total number of unique b
 
 [placing-and-replacing-buildings-grove-university-a](https://boardgamegeek.com/thread/2212069/placing-and-replacing-buildings-grove-university-a)
 
-> When you are instructed by Grove University or Architect's Guild to place or replace a building, if you choose to place a building such as the Bank or Factory, do you still put a resource cube on it?
-
-Yes, when you replace with Architect's Guild you still follow any construction requirements for things like Bank and Factory.
-
-> Specific to Architect's Guild: can you chose to "replace" a building with one of the same kind?
-
-You cannot replace a building with one of the same kind, but you could do this: Replace a Bank (with a glass) with an Almshouse. Replace an Almshouse with a Bank (with glass or any other resource). So if you are looking for a way to switch up the resource on Factory or Bank, this is a valid way to do it.
-On a different note, the number of buildings you replace can be anywhere from 0 to 2.
-
 [solo-fortune-what-s-a-round](https://boardgamegeek.com/thread/2515194/solo-fortune-what-s-a-round)
 
 [block-placement](https://boardgamegeek.com/thread/2128686/block-placement)
@@ -116,6 +124,14 @@ No, each square can only hold one resource cube at a time.
 > Once a square has a building, can you still put blocks in it?
 
 No, once a building is constructed in a square, you cannot place any more resource cubes in that square.
+
+----
+Page 4
+
+Resources may never be moved to a different square after being placed.
+Resources can only be removed by constructing a building.
+Only 1 resource or building may occupy a square.
+When resources are removed from a board, they go back to the general supply.
 
 [scoring-multiples-of-same-building-farm-chapel-and](https://boardgamegeek.com/thread/2201817/scoring-multiples-of-same-building-farm-chapel-and)
 
@@ -133,6 +149,11 @@ In your example: for each cottage, you check if it is fed? If so, then add 3 poi
 > Greenhouse specifies it feeds one contiguous group of cottages. If there is two single cottage (not contiguous) and two greenhouses, would those cottages be considered fed with each greenhouse feeding one cottage. Or do you have to have 2+ contiguous cottages for them to be fed at all?
 
 If you have two single cottages (not contiguous to each other) but each one is contiguous to a Greenhouse, they will be fed. Perhaps the feeding groups can be as small as "1"
+
+----
+Page 7
+
+Greenhouses feed 1 contiguous group of Cottages that are adjacent (up, down, left, and right) to each other. This group does not have to be adjacent to a Greenhouse.
 
 [clarification-on-the-bakery](https://boardgamegeek.com/thread/2537758/clarification-on-the-bakery)
 
