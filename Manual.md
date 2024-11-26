@@ -165,7 +165,7 @@ In the case of a tie, the tied player who had the fewest turns as Master Builder
 
 - Farm / Granary / Greenhouse / Orchard (red building icon) buildings never score points on their Own.
 
-## SCORING EXAMPLE
+## SCORING EXAMPLE (Page 5)
 
 Playing without monuments, this board would score:
 | | | | |
