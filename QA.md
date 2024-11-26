@@ -99,17 +99,7 @@ Building layouts may be mirrored/flipped and rotated, as long as the configurati
 
 [theater-scoring-question](https://boardgamegeek.com/thread/2353203/theater-scoring-question)
 
-> Can theaters score off of each other? and If 2 theaters are in the same row, is the other theater counted as a unique building?
-
-No. Page 7 of the rules says, "Theater’s score is the total number of unique building types besides Theater that share a row or column with that Theater."
-
 [greenhouse-clarification](https://boardgamegeek.com/thread/2197331/greenhouse-clarification)
-
-> Does the contiguous group needing to be fed need to be the same type of building?
-> For example: Will [cottage]-[barret castle]-[cottage] all be fed? similarly will the two cottages in [cottage]-[well]-[cottage] be fed?
-
-[cottage]-[barret castle]-[cottage] = Works since there are buildings that “need to be fed”
-[cottage]-[well]-[cottage] = Does not work.
 
 [placing-and-replacing-buildings-grove-university-a](https://boardgamegeek.com/thread/2212069/placing-and-replacing-buildings-grove-university-a)
 
@@ -135,13 +125,6 @@ When resources are removed from a board, they go back to the general supply.
 
 [scoring-multiples-of-same-building-farm-chapel-and](https://boardgamegeek.com/thread/2201817/scoring-multiples-of-same-building-farm-chapel-and)
 
-> Can I reuse cottages when scoring multiples of the same building?
-> Example: If I have 6 cottages fed by 2 farms would I score 24 pts (each farm feeding any 4 cottages for 12 pts), or 18 pts (one farm feeds 4 cottages for 12 pts and the other farm feeds the remaining two cottages for 6 pts).
-
-First you check the individual condition for each building.
-In the case of cottages just check if it is fed or not. Perhaps it doesn't matter how many farms can feed it.
-In your example: for each cottage, you check if it is fed? If so, then add 3 points. So if you have 6 cottages and they are all fed, then you'd get 18 points.
-
 [barret-castle-question](https://boardgamegeek.com/thread/2205749/barret-castle-question)
 
 [greenhouse-with-single-cottage](https://boardgamegeek.com/thread/2267823/greenhouse-with-single-cottage)
@@ -161,6 +144,11 @@ Greenhouses feed 1 contiguous group of Cottages that are adjacent (up, down, lef
 
 You would score 3 points for the Bakery, as it counts each adjacent building separately.
 
+----
+Page 5
+
+Bakery: 3 points for being adjacent to a Farm.
+
 [opaleyes-watch-and-architects-guild](https://boardgamegeek.com/thread/2237191/opaleyes-watch-and-architects-guild)
 
 > When my opponent replaces a building with a building which is one of the three buildings on my Opaleye's Watch card, Should I place that new building into my town?
@@ -171,22 +159,16 @@ Yes. Whenever you place a building in your town it is considered to be construct
 
 [factory-s-cube](https://boardgamegeek.com/thread/2736550/factory-s-cube)
 
-> When talking about the resource cube put on the factory when built: are you allowed to switch to another resource only once during the game or are you allowed to use this power again during the remainder of the game?
-
-As often as you wish.
-Just to be clear: you place one resource on the Factory when it is constructed. Whenever the Master Builder names this type of resource, you may place a different resource yourself, although you cannot make this change when you are the Master Builder.
-For example:
-(1) You construct the Factory and put a glass cube on it.
-(2) Player A is the Master Builder and names Wheat. You must Place Wheat.
-(3) Player B becomes the Master Builder and names Glass - you may play any resource.
-(4) You become the Master Builder and name Glass - you must place Glass.
-For the rest of the game, every time another player is the Master Builder and names glass, you may place a different resource or glass.
-
 [well-question](https://boardgamegeek.com/thread/2228080/well-question)
 
 > Is it possible for me to have multiple wells attached to one cottage? or in other words could I build up to 4 wells per cottage if I wanted to? Or am I limited to one well per cottage?
 
 Yes, you can build four wells near to a cottage. It would give you 4 points in total from the combined wells. You can also build four cottages adjacent to a single well, earning you 4 points in total from that well.
+
+----
+Page 5
+
+2 WELLS: 1 point for each adjacent cottage (fed and unfed).	That gives 5 points
 
 [feast-hall-and-inn-in-solo](https://boardgamegeek.com/thread/3358124/feast-hall-and-inn-in-solo)
 
@@ -196,7 +178,12 @@ Yes, you can build four wells near to a cottage. It would give you 4 points in t
 
 > Can you build on any square with a resource?
 
-No. Obelisk says that you can build in *empty* squares. Squares with resources are not empty.
+No. The Rulebook says that you can build in *empty* squares. Squares with resources are not empty.
+
+----
+Page 4
+
+All players MUST take a cube of this resource and place it in an empty square in their town grid. Players do this simultaneously.
 
 [i-dont-want-to-tell-others-what-im-building](https://boardgamegeek.com/thread/2227907/i-dont-want-to-tell-others-what-im-building)
 
@@ -204,6 +191,11 @@ No. Obelisk says that you can build in *empty* squares. Squares with resources a
 
 You don't need to announce what you are building every time you place a material. You just announce what you will build once you have all pieces in place and they are ready to be replaced by the building. This is just in case someone wants to check whether or not all materials are placed in the correct order.
 Part of the fun is trying to guess what your friends are trying to build, so you can mess up with their materials.
+
+----
+Page 4
+
+Players may construct any buildings for which they have the matching resources in the correct shape. Players do this simultaneously and should announce what building they are constructing.
 
 [architects-guild-interaction-with-opaleyes-watch](https://boardgamegeek.com/thread/3214159/architects-guild-interaction-with-opaleyes-watch)
 
@@ -218,17 +210,14 @@ Part of the fun is trying to guess what your friends are trying to build, so you
 Barrett Castle is only 5 points max if its fed. However, it counts as two cottages only in reference to other building scoring like Chapel, Temple, Well, etc. That score per adjacent cottage.
 So its worth more than 5 points in the sense that it makes other buildings score more, assuming those buildings are even in the game.
 
+----
+Page 8
+
+For all building scoring, Barrett Castle counts as 2 Cottages and not a Monument.
+
 [outhouse-clarification](https://boardgamegeek.com/thread/2936988/outhouse-clarification)
 
-> Are you allowed to use the resource placed on the Outhouse to build a building?
-
-No. Outhouse is just for chucking unwanted resources.
-
 [resource-on-bank](https://boardgamegeek.com/thread/2197273/resource-on-bank)
-
-> What is the purpose of the resource that the bank holds?
-
-Banks come with a restriction and when it is your turn to choose a resource, you cannot choose a resource that is on one of your banks.
 
 [solo-with-factory](https://boardgamegeek.com/thread/2236587/solo-with-factory)
 
@@ -236,23 +225,34 @@ Banks come with a restriction and when it is your turn to choose a resource, you
 
 Yes you can.
 
+----
+Page 6
+
+Shuffle the 15 Resource cards to form a draw pile and reveal the top 3 cards. You choose to place any 1 of the 3 resources shown in your town and construct buildings as normal. Then place the corresponding card face-down on the bottom of the draw pile and draw a new Resource card to replace it.
+
 [greenhouse-clarification-on-the-word-group](https://boardgamegeek.com/thread/2261043/greenhouse-clarification-on-the-word-group)
 
 > Does a group of 1 cottage counts? Or does it need to be 2 or more cottages for the feed to take effect?
 
 If you only have one cottage the greenhouse will feed it.
 
+----
+Page 7
+
+Greenhouses feed 1 contiguous group of Cottages that are adjacent (up, down, left, and right) to each other. This group does not have to be adjacent to a Greenhouse.
+
 [38-points-in-singleplayer](https://boardgamegeek.com/thread/2447999/38-points-in-singleplayer)
-
-> How do you get 38 points in the singleplayer variant to get the Master Architect title?
-
-It actually helps to use a monument that scores points over one that gives you a cool ability. Try also building that can score 4 or more points: chapel, theater, tailor, temple, almshouse, etc.
 
 [scoring-shrine-of-the-elder-tree](https://boardgamegeek.com/thread/2227812/scoring-shrine-of-the-elder-tree)
 
 > If this is scored at the time of building, and the points awarded are dependent upon the number of buildings built at that time, do you include the shrine itself in that tally?
 
 The Shrine counts itself.
+
+----
+Page 8
+
+If this is the 7th or later building you construct, it still only scores 8 points.
 
 [obelisk-and-factory-question](https://boardgamegeek.com/thread/2209122/obelisk-and-factory-question)
 
@@ -262,50 +262,64 @@ It sounds as if you were not playing the Trading Post correctly.
 However, the rules states that "you can use multiple Trading Posts to construct a single building, but at least 1 non-Trading Post resource must be used."
 Granted, with three of them and the Obelisk one building could be built every turn, but it would be limited to one a turn. It's a very strong combo but of course building it all is not trivial.
 
+----
+Page 7
+
+Trading Posts can be used in the layout of any future buildings. When you construct a building that used a Trading Post as a resource, you do not remove the Trading Post from its square. You can use multiple Trading Posts to construct a single building, but at least 1 non-Trading Post resource must be used.
+
 [end-of-game-keep-placing-cubes](https://boardgamegeek.com/thread/2264487/end-of-game-keep-placing-cubes)
 
 > If you get to a state in game were you'll never be able to build another building, but still have empty squares without resource. Are you required to keep placing resources?
 
 Rules states that " A player may continue to place resources and name resources as the Master Builder as long as they have space for the resources in their town, even if it will not be possible for them to construct any buildings."
 
+----
+Page 5
+
+**Note:** A player may continue to place resources and name resources as the Master Builder as long as they have space for the resources in their town, even if it will not be possible for them to construct any buildings.
+
 [scoring-a-tailor-and-silva-forum](https://boardgamegeek.com/thread/2544006/scoring-a-tailor-and-silva-forum)
 
 [opaleyes-watch-question](https://boardgamegeek.com/thread/2215196/opaleyes-watch-question)
-
-> The card states, "Immediately place 3 unique buildings on this card. Whenever a player on the left or right of you constructs 1 of those buildings, take the building from here and place it on an empty square in your town."
-Is this mandatory? Do I have to place one of those buildings if I don't want to yet?
-
-Yes, you have to place it.
-With this knowledge, if you are at the left or right of the player with that card, you may time your building in such a way that it is unwanted for that player.
 
 [help-understanding-the-bank](https://boardgamegeek.com/thread/2340782/help-understanding-the-bank)
 
 [opaleyes-watch-plus-arhitects-guide-question](https://boardgamegeek.com/thread/2419783/opaleyes-watch-plus-arhitects-guide-question)
 
-> My son has placed 3 buildings on his Opaleye's Watch card (Cottage, Factory, Farm). Perhaps i have already built a well and a cottage on my board and have build my architect's Guide and replace well and cottage with two Factories.
-> Is my son allowed to place his factory because architect's Guide card doesn't build a building but replaces a building?
-
-Your son would get to place the Factory and any time a building is placed on a board it is considered to be constructed.
-
 [can-architects-guilds-effect-be-applied-to-itself](https://boardgamegeek.com/thread/2208839/can-architects-guilds-effect-be-applied-to-itself)
 
->Since Architect's Guild (Monument): 1 point and When constructed, replace up to 2 other buildings in your town with any other building types. However, can this effect be used to replace the monument itself with another (non-monument) building type?
+> Since Architect's Guild (Monument): 1 point and When constructed, replace up to 2 other buildings in your town with any other building types. However, can this effect be used to replace the monument itself with another (non-monument) building type?
 
 No, it cannot. Perhaps if you could use Architect's Guild to replace itself, it would almost always be advantageous to do so since most building score more than 1 point if placed well.
+
+----
+Page 8
+
+You may choose not to use the ability of the Architect's Guild, but you cannot use it later. The buildings you place may be the same type or 2 different types. You cannot change buildings into monuments, since they are not in the general supply.
 
 [mirror-placement](https://boardgamegeek.com/thread/2432875/mirror-placement)
 
 [bank-question](https://boardgamegeek.com/thread/2184704/bank-question)
 
->If i put one resource on the Bank. Do I take it from the general supply or my town grid?
+> If i put one resource on the Bank. Do I take it from the general supply or my town grid?
 
 The resource comes from the general supply.
+
+----
+Page 4
+
+When resources are removed from a board, they go back to the general supply.
 
 [rules-clarification-the-inn](https://boardgamegeek.com/thread/2229954/rules-clarification-the-inn)
 
 > About the Inn. Are you able to score for it a maximum of 4 times (in a diagonal)?
 
-Yes, only possible to score it a max of 4 times. The rulebook says it's worth 0 points if another inn is the same column or row. Also it wouldn't have to be diagonal. The classic Four Queens solution would also work. 
+Yes, only possible to score it a max of 4 times. The rulebook says it's worth 0 points if another inn is the same column or row. Also it wouldn't have to be diagonal. 
+
+----
+Page 7
+
+Inns in the same row or column are worth 0 points.
 
 [opaleye-s-watch-vs-grove-university](https://boardgamegeek.com/thread/2340023/opaleye-s-watch-vs-grove-university)
 
@@ -315,6 +329,11 @@ Yes, only possible to score it a max of 4 times. The rulebook says it's worth 0 
 
 Page 7 of the rulebook states, "Fountains cannot score more than 2 VP. Adjacent refers to up, down, left, and right, not diagonal."
 
+----
+Page 7
+
+Fountains cannot score more than 2 points. Adjacent refers to up, down, left, and right, not diagonal.
+
 [market-question](https://boardgamegeek.com/thread/2235630/market-question)
 
 > The Market card states: "1 VP for each Market in the same row or column (not both) as Market." Perhaps do 1, single Market on the board still scores 1 VP at the end of the game?
@@ -323,19 +342,35 @@ Page 7 of the rulebook states, "Fountains cannot score more than 2 VP. Adjacent 
 Yes a single market still counts as 1VP. It will always be in the same row/column as itself.
 Off the top of my head the Tailor reads 1vp + 1 vp per... as the Tailor doesn't have to be or may not be in the additional scoring area (which I think was the middle 4 squares). So a single tailor in the corner of the board would be 1vp, while a single tailor in the middle of the board would be 2vp. If you had 2 tailors, 1 in the middle and one on the edge they would be worth 2vp each, while if both were in the middle of the board they would be 3vp each.
 
+----
+Page 7
+
+Markets score for either a row or column, but not both. Markets always score 1 point for themselves in addition to any other Markets in the same row or column, for a maximum score of 4 points.
+
 [trading-post-question](https://boardgamegeek.com/thread/2207539/trading-post-question)
 
 [how-does-monastery-work-villagers-expansion](https://boardgamegeek.com/thread/2798411/how-does-monastery-work-villagers-expansion)
-
-> How would Monastery from the Villagers expansion work in this situation? Monastery and a fed village are in opposite corners of the board. Would this be 5 spaces orthogonally or would you count the 2 diagonal spaces instead?
-
-You go orthogonally. So 5 spaces in between.
 
 [factory-with-multiple-cubes](https://boardgamegeek.com/thread/2213968/factory-with-multiple-cubes)
 
 > Can i put only one cube on a factory?
 
 You can only put one cube on a factory when you build it. For the remainder of the game when somebody calls that resource, you may choose to place a different resource instead. Thus, a Factory can never contain more than one cube. But you can have multiple factories with different resources. Warehouses, however, can hold up to 3 resources.
+
+----
+Page 7
+
+You may choose for multiple Factories to hold the same resource, but it offers you no advantage.
+
+----
+Page 4
+
+A resource can only be used to construct 1 building — in other words, every building requires all of its resources.
+
+----
+Page 7
+
+You can store up to 3 resources with a Warehouse by physically placing the cubes on the building. When another player names a resource that you do not want, place the resource on your Warehouse. You may remove a resource from your Warehouse and place it in an empty square on your board when you do this. You can never remove a resource without placing a new resource on the Warehouse. As a result, the number of resources on a Warehouse will never decrease.
 
 [recommended-of-fortune-buildings](https://boardgamegeek.com/thread/2449442/recommended-of-fortune-buildings)
 
@@ -353,16 +388,16 @@ In Town Hall mode all effects that say when another player as master builder wil
 
 [cavern-rule-clarification](https://boardgamegeek.com/thread/2201735/cavern-rule-clarification)
 
-> Can the resources in the Cavern be used later in the game instead of what is selected by the Master Builder?
-
-No, those resources are simply discarded and cannot be used later.
-However, some people like to use a house rule, in which you can swap the new resource by one stored previously in the cavern. This make the game a bit easier, and for some people, even more fun.
-
 [clarification-about-statue-of-the-bondmaker](https://boardgamegeek.com/thread/2206868/clarification-about-statue-of-the-bondmaker)
 
 > Do I still have to count the stored on cottage resource at the end as a negative?
 
 You don't count resources on your board as negative points because at the end of the game you take resources off your board and count empty spaces as negative points. After taking the resource off the cottage,the space will not be empty.
+
+----
+Page 5
+
+Remove all remaining resource cubes (except from Warehouses). Each empty square is worth -1 points. 
 
 [town-hall-rules-note](https://boardgamegeek.com/thread/2232606/town-hall-rules-note)
 
@@ -377,35 +412,27 @@ It refers to other players naming resources apply to rounds in which the Mayor d
 
 Adjacency does not include diagonals and from page 5, under Additional Rules: "Adjacent means up, down, left, and right."
 
+----
+Page 5
+
+"Adjacent" means up, down, left, and right.
+
 [clarifying-the-required-pattern](https://boardgamegeek.com/thread/2209901/clarifying-the-required-pattern)
 
 > Can you build in any color arrangement and not that on the card as long as the colors are the same?
 
 No, it has to be that exact pattern in any orientation. Rotating, flipping or mirroring the pattern is fine, but the pattern still has to be in the correct arrangement.
 
+----
+Page 4
+
+image of the 4 cubes in between each other; a blue cube, then a grey cube then a blue cube then a grey cube. This is allowed, since the configuration of the cubes matches the Chapel card.
+
 [score-sheet-clarification](https://boardgamegeek.com/thread/3165254/score-sheet-clarification)
-
-> On the score sheet, below monument row there is a map icon with a red X through it. What does this mean and how does it score?
-
-It means you have to count the empty spaces (without a building, but with a token) on your board. For every empty space you will get a negative point.
 
 [rule-clarification-mandras-palace](https://boardgamegeek.com/thread/2230156/rule-clarification-mandras-palace)
 
-> In Mandras Palace, what does 2 VP for each unique adjacent building type mean?
-> I understand if I have a red and a blue building adjacent, will this score 4 ?
-> What if I also have a green and a blue, will this also score me 4 ? Or will it not because the blue one isn't unique anymore ?
-> What if I have 3 different building types in a row ?
-> What does unique in this setting even mean ? One of a kind on the board Different ?
-> Or do unique buildings need to be adjacent to the monument ? If so, does the monument count as à unique building as well ?
-
-The Palace can score at most 8 points, by having 4 different building types orthogonally adjacent to it. Unique simply means that you can only score for different buildings e.g. if you have more than one Cottage adjacent, you’ll only score for one of them. The Palace doesn’t count as it is not adjacent to itself.
-The explanation for the Theatre in the rules, explains what unique means in the context of this game.
-
 [clarification-grand-mausoleum-of-the-rodina](https://boardgamegeek.com/thread/2212313/clarification-grand-mausoleum-of-the-rodina)
-
-> This monument states: "Your unfed cottages are worth 3 VP each". Is there a clarification in the rulebook that explains whether or not this replaces the normal cottage scoring mechanic (3 VP if fed)?
-
-It doesn’t replace anything. If it’s fed, it’s 3 points via the Cottage card. If it’s not fed, it’s 3 points via the Monument card.
 
 [master-builder-wait-for-construction](https://boardgamegeek.com/thread/2201803/master-builder-wait-for-construction)
 
@@ -413,12 +440,12 @@ It doesn’t replace anything. If it’s fed, it’s 3 points via the Cottage ca
 
 On page 4, step 3, the rules state that all players are given a chance to construct before the next player names a resource.
 
+----
+Page 4
+
+Players may construct any buildings for which they have the matching resources in the correct shape. Players do this simultaneously and should announce what building they are constructing.
+
 [the-architects-guild-wipes-out-filthy-warehouses](https://boardgamegeek.com/thread/2255099/the-architects-guild-wipes-out-filthy-warehouses)
-
-> What happens when I replace my warehouses full of industrial wastes with some brand-new buildings?
-> Will warehouses come into play unused? Or should the newly built warehouses take over the accumulated garbage?
-
-You can replace a full warehouse for another building thus removing the unwanted cubes forever. However you cannot remove a warehouse and put in a new warehouse. You must replace the old building for a new type of building.
 
 [monument-tier-list-for-fortune-exspansion](https://boardgamegeek.com/thread/2451829/monument-tier-list-for-fortune-exspansion)
 
@@ -440,6 +467,11 @@ Yes, they're still buildings in a game sense even when in a real-world sense you
 Under Additional Rules Page 5:
 Resource cubes and buildings are unlimited. If you run out, substitute some other marker.
 
+----
+Page 5
+
+Resource cubes and buildings are unlimited. If you run out, substitute some other marker.
+
 [scoring-the-market](https://boardgamegeek.com/thread/2392394/scoring-the-market)
 
 > If you have 4 markets in a row, does it score 4 points for each market, for a total of 16 points?
@@ -452,11 +484,12 @@ So this market scores 4 points.
 Now we go on to the next market ...
 You see where this is going? So yes 16 points.
 
+----
+Page 7
+
+Markets score for either a row or column, but not both. Markets always score 1 point for themselves in addition to any other Markets in the same row or column, for a maximum score of 4 points.
+
 [another-factory-question](https://boardgamegeek.com/thread/2291568/another-factory-question)
-
-> While playing Tiny towns, I built a factory and as we played it, I could only put 1 of the 5 cubes that I used to build it (red, brown, grey) over the building, is that true? or can i choose any resource including blue and yellow?
-
-You can choose any resources.
 
 [feeding-cottages-when-does-it-happen](https://boardgamegeek.com/thread/2472623/feeding-cottages-when-does-it-happen)
 
