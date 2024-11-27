@@ -493,19 +493,9 @@ Markets score for either a row or column, but not both. Markets always score 1 p
 
 [feeding-cottages-when-does-it-happen](https://boardgamegeek.com/thread/2472623/feeding-cottages-when-does-it-happen)
 
-> Do you feed cottage with your red buildings upon constructing the red building, or during endgame scoring?
-
-"Feeding" is an abstract concept in this game, it represents a condition that you need to meet in order to score points for cottages at the end of the game but is "active" as soon as the condition is met.
-So the answer is during the endgame scoring.
-Otherwise you could not build the red buildings before the cottages.
-
 [holding-off-on-constructing-building-with-villager](https://boardgamegeek.com/thread/3371143/holding-off-on-constructing-building-with-villager)
 
 [shrine-of-the-elder-tree-counting-itself](https://boardgamegeek.com/thread/2354259/shrine-of-the-elder-tree-counting-itself)
-
-> Does the shrine of the elder tree count itself for "number of buildings in your town when constructed"?
-
-Yes It does indeed
 
 [german-rules-available-now](https://boardgamegeek.com/thread/2278361/german-rules-available-now)
 
@@ -516,31 +506,20 @@ Yes It does indeed
 Buildings are not resources; resources are not buildings.
 The only building you can use as a resource is the Trading Post
 
+----
+Page 7
+
+Trading Posts can be used in the layout of any future buildings. When you construct a building that used a Trading Post as a resource, you do not remove the Trading Post from its square. You can use multiple Trading Posts to construct a single building, but at least 1 non-Trading Post resource must be used.
+
 [bank-card-and-town-hall-variant-rule](https://boardgamegeek.com/thread/2476930/bank-card-and-town-hall-variant-rule)
-
-> If I build a bank, I have got the possibility to announce a resource previously set on it. But when i play with the town hall rule, i can't announce any resource because I must put directly 2 Times a resource card, and then taking another one on my own choice.
-> How Can i use this bank card?
-
-When we play with town hall variant, on the 3rd card which is your wild card, you are not allowed to take a cube of the same color as one on your bank. By your description i am not sure if you're playing the bank correctly. The color cube that you put on there can no longer be freely chosen by you.
 
 [how-to-score-multiple-markets](https://boardgamegeek.com/thread/2703685/how-to-score-multiple-markets)
 
 [understanding-barrett-castle](https://boardgamegeek.com/thread/2460510/understanding-barrett-castle)
 
-> I'm having trouble understanding Barrett Castle. So you get 5 points if fed. How do you feed the Castle? We had the Greenhouse card in play at the time.
-> What does it mean when it says it "counts as two cottages"? Do you get extra points as if it were two fed cottages, three points each?
-
-"It is fed the same way a cottage is fed, which depends on which red building is in play. 
-For example: if you had the red building that feeds cottages in the 8 spaces around it, you'll have to build the Barrett Castle in one of those 8 spaces."
-The 2 cottage thing refers to buildings like Chapel or Temple. Temple needs to be adjacent to 2 fed cottages, if it's adjacent to a fed Barret's Castle, that would count.
-
 [starloom-monument-card-need-clarification](https://boardgamegeek.com/thread/2210181/starloom-monument-card-need-clarification)
 
 [what-does-contiguous-mean-in-tiny-towns](https://boardgamegeek.com/thread/2222153/what-does-contiguous-mean-in-tiny-towns)
-
-> If you had a group of 5 buildings of the same type arranged to make a plus sign, would that entire group of buildings be considered contiguous or would it only count as 3 contiguous buildings?
-
- it's simply the largest group of buildings orthogonally adjacent to each other, so all 5.
  
 [tiny-towns-rules](https://boardgamegeek.com/thread/2211946/tiny-towns-rules)
 
@@ -549,12 +528,12 @@ The 2 cottage thing refers to buildings like Chapel or Temple. Temple needs to b
 
 The rules do indeed give the answer Under point 3 of the Round Overview: "Players may construct any buildings for which they have the matching resources in the correct shape". In addition, under Completing Your Town, it says "When your town is filled with resources and you cannot (or choose not to) construct any buildings."
 
+----
+Page 4
+
+Players may construct any buildings for which they have the matching resources in the correct shape. Players do this simultaneously and should announce what building they are constructing.
+
 [removing-resource-cubes](https://boardgamegeek.com/thread/2487511/removing-resource-cubes)
-
-> Once placed on the board, is there no way to remove a cube from the board?
-
-The idea of leaving resource cubes on the board adds the aspect of planning. If you could remove resource cubes, I believe it lessens considerably the importance of decisions you make.
-So normally you are not going to remove a cube from the board. But, if you want to make a house rule to lighten the mood of the game, feel free to do so. 
 
 [barrett-castle-plus-opaleyes-watch-question](https://boardgamegeek.com/thread/2231961/barrett-castle-plus-opaleyes-watch-question)
 
@@ -564,11 +543,21 @@ So normally you are not going to remove a cube from the board. But, if you want 
 
 No. Barrett Castle only counts as two cottages when scoring.
 
+----
+Page 8
+
+For all building scoring, Barrett Castle counts as 2 Cottages and not a Monument.
+
 [what-happens-when-you-run-out-of-resource-cubes](https://boardgamegeek.com/thread/2536786/what-happens-when-you-run-out-of-resource-cubes)
 
 >  We were playing tiny towns as a family when my son decided to not build and hoard a resource. When it was time to call, we did called but not available. So what do we do?
 
 Additional Rules From page 5 says "Resource cubes and buildings are unlimited. If you run out, substitute some other marker. Perhaps you would need to substitute that resource with something else (Maybe with other game pieces).
+
+----
+Page 5
+
+Resource cubes and buildings are unlimited. If you run out, substitute some other marker.
 
 [solo-refill-resource-timing](https://boardgamegeek.com/thread/2497254/solo-refill-resource-timing)
 
@@ -581,16 +570,13 @@ Additional Rules From page 5 says "Resource cubes and buildings are unlimited. I
 > If the card instead gets replaced after the building phase am i to build something or wait.
 
 The Rulebook is clear on this: Drawing a new card is the last step.
-Quote:
-You choose to place any 1 of the 3 resources shown in your town and construct buildings as normal. Then place the corresponding card face-down on the bottom of the draw pile and draw a new Resource card to replace it.
+
+----
+Page 6
+
+Shuffle the 15 Resource cards to form a draw pile and reveal the top 3 cards. You choose to place any 1 of the 3 resources shown in your town and construct buildings as normal. Then place the corresponding card face-down on the bottom of the draw pile and draw a new Resource card to replace it.
 
 [warehouse-storage-question](https://boardgamegeek.com/thread/2353783/warehouse-storage-question)
-
-> Are you not allowed to use the warehouse if you are the master builder for both placing and swapping?
-> If this is the case, in the card draw variant would the time you get to pick any resource be equivalent to being master build and prevent you from using the warehouse?
-
-Yes and yes.
-Basically, the idea is that "whenever you may not choose the resource anyway" you may use the warehouse.
 
 [5-banks](https://boardgamegeek.com/thread/2202189/5-banks)
 
@@ -599,13 +585,12 @@ Basically, the idea is that "whenever you may not choose the resource anyway" yo
 If you have 5 Banks and are the last player still going, then you would be forced to declare your town "complete."
 This is an exception to the normal game end trigger.
 
+----
+page 7
+
+You cannot construct more than 5 Banks, since there would be no resource for them to hold.
+
 [does-zero-count-for-the-public-house](https://boardgamegeek.com/thread/3044364/does-zero-count-for-the-public-house)
-
-> Does having zero of a building type give you a point for the public house, as zero is an even number.?
-> Public House: “1 point per unique building type, you have an even number in your town.”
-
-No. The rules state "per unique building type you HAVE an even number of"
-While zero is an even number, if there is a building type there are zero of in your town, or rather none in your town, then you don't "have" any in your town.
 
 [feast-hall-points](https://boardgamegeek.com/thread/2798176/feast-hall-points)
 
@@ -616,11 +601,21 @@ While zero is an even number, if there is a building type there are zero of in y
 
 Barrett Castle is only worth 5 points if fed (no additional points for counting as two Cottages). It is treated as two Cottages for the purposes of things like Chapel and Well, however.
 
+----
+Page 8
+
+For all building scoring, Barrett Castle counts as 2 Cottages and not a Monument.
+
 [theater](https://boardgamegeek.com/thread/3344045/theater)
 
 > For the purposes of scoring a theater, let's call it Theater A. If you have another theater (Theater B) in the same row or column, does Theater B count as a "unique" building when scoring Theater A? And vice versa?
 
 No, Theaters don't count.
+
+----
+Page 7
+
+A Theater's score is the total number of unique building types besides Theater that share a row or column with that Theater, for a maximum score of 6 points. If there are buildings of the same type in both the same row and column as Theater, that building type only counts once toward Theater's score. Monument counts as a unique building type (unless it is Barrett Castle, which counts as 2 Cottages).
 
 [scoring-clarification-barrett-castle-and-contiguou](https://boardgamegeek.com/thread/2541166/scoring-clarification-barrett-castle-and-contiguou)
 
@@ -631,3 +626,9 @@ No, Theaters don't count.
 > Is Shrine of the Elder tree an end game scoring or is it scored at the time of building?
 
 It's scored at the end of the game, but its score is based on when you built it.
+
+----
+Page 8
+
+If this is the 7th or later building you construct, it still only scores 8 points.
+
