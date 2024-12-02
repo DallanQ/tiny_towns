@@ -127,9 +127,9 @@ If John places a blue Resource cube here, he may choose to construct a **Chapel*
 **BLAM!** Now John is ready to construct a **Chapel**.
 
 > An image of all the cubes(blue and grey) removed.
- John removes the 4 cubes and can place the wooden Chapel in any of the squares they occupied. He chooses the rightmost square. Resources and other buildings may no longer be placed in that square.
+John removes the 4 cubes and can place the wooden Chapel in any of the squares they occupied. He chooses the rightmost square. Resources and other buildings may no longer be placed in that square.
 
-> image of the 4 cubes in between each other; a blue cube, then a grey cube then a blue cube then a grey cube.
+> Image of the 4 cubes in between each other; a blue cube, then a grey cube then a blue cube then a grey cube.
 This is allowed, since the configuration of the cubes matches the Chapel card.
 
 > Image of a blue cube, then two grey cubes, then a blue cube.
@@ -278,7 +278,7 @@ Score **Chapels** individually. A town with 3 fed (blue building icon)  Cottages
 
 #### Cloister (orange church icon) (page 7)
 
-**Cloisters** not placed in a corner will still score 1 point for each other. Cloister placed in a corner. The maximum a Cloister can score is 4 points.
+**Cloisters** not placed in a corner will still score 1 point for each other **Cloister** placed in a corner. The maximum a **Cloister** can score is 4 points.
 
 #### Temple (orange church icon) (page 7)
 

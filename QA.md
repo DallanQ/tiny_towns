@@ -1,6 +1,6 @@
 [cloister-well-and-other-pt-per-each](https://boardgamegeek.com/thread/2205285/cloister-well-and-other-pt-per-each)
 
->  What is the meaning of the cards that have the scoring, 1pt each for a condition.
+>  What is the meaning of the cards that have the scoring 1pt each for a condition.
 > Example: 
 >  Cloister
 > 1 pt for each cloister in the corners.
@@ -11,7 +11,7 @@ Each Cloister can be worth up to 4 points. Four Cloisters in the corners plus on
 ----
 Page 7
 
-Cloisters not placed in a corner will still score 1 point for each other. Cloister placed in a corner. The maximum a Cloister can score is 4 points.
+Cloisters not placed in a corner will still score 1 point for each other Cloister placed in a corner. The maximum a Cloister can score is 4 points.
 
 [how-do-i-score-duplicates-of-these-buildings](https://boardgamegeek.com/thread/2205753/how-do-i-score-duplicates-of-these-buildings)
 
@@ -37,7 +37,7 @@ Taverns score points as a group. For example, 4 Taverns are worth 14 points tota
 ----
 Page 5
 
-***Remember!*** Cottages (blue building icon) must be fed by Farm / Granary / Greenhouse / Orchard (red building icon) buildings, to be worth 3 points. Players may construct Cottages before or after constructing Farm / Granary / Greenhouse / Orchard (red building icon) buildings, but unfed Cottages at game end score 0 points.
+Cottages (blue building icon) must be fed by Farm / Granary / Greenhouse / Orchard (red building icon) buildings, to be worth 3 points. Players may construct Cottages before or after constructing Farm / Granary / Greenhouse / Orchard (red building icon) buildings, but unfed Cottages at game end score 0 points.
 
 [can-cubes-on-factories-be-used-in-building-pattern](https://boardgamegeek.com/thread/2333380/can-cubes-on-factories-be-used-in-building-pattern)
 
@@ -95,7 +95,7 @@ The rules say that mirrored/flopped are both OK under Building Construction Rule
 ----
 Page 4
 
-Building layouts may be mirrored/flipped and rotated, as long as the configuration of resources remains the same. To construct a building:
+Building layouts may be mirrored/flipped and rotated, as long as the configuration of resources remains the same.
 
 [theater-scoring-question](https://boardgamegeek.com/thread/2353203/theater-scoring-question)
 
@@ -119,8 +119,11 @@ No, once a building is constructed in a square, you cannot place any more resour
 Page 4
 
 Resources may never be moved to a different square after being placed.
+
 Resources can only be removed by constructing a building.
+
 Only 1 resource or building may occupy a square.
+
 When resources are removed from a board, they go back to the general supply.
 
 [scoring-multiples-of-same-building-farm-chapel-and](https://boardgamegeek.com/thread/2201817/scoring-multiples-of-same-building-farm-chapel-and)
@@ -150,10 +153,6 @@ Page 5
 Bakery: 3 points for being adjacent to a Farm.
 
 [opaleyes-watch-and-architects-guild](https://boardgamegeek.com/thread/2237191/opaleyes-watch-and-architects-guild)
-
-> When my opponent replaces a building with a building which is one of the three buildings on my Opaleye's Watch card, Should I place that new building into my town?
-
-Yes. Whenever you place a building in your town it is considered to be constructed.
 
 [why-this-card-in-solo-is-discarded](https://boardgamegeek.com/thread/3304505/why-this-card-in-solo-is-discarded)
 
@@ -276,7 +275,7 @@ Rules states that " A player may continue to place resources and name resources 
 ----
 Page 5
 
-**Note:** A player may continue to place resources and name resources as the Master Builder as long as they have space for the resources in their town, even if it will not be possible for them to construct any buildings.
+A player may continue to place resources and name resources as the Master Builder as long as they have space for the resources in their town, even if it will not be possible for them to construct any buildings.
 
 [scoring-a-tailor-and-silva-forum](https://boardgamegeek.com/thread/2544006/scoring-a-tailor-and-silva-forum)
 
@@ -314,7 +313,7 @@ When resources are removed from a board, they go back to the general supply.
 
 > About the Inn. Are you able to score for it a maximum of 4 times (in a diagonal)?
 
-Yes, only possible to score it a max of 4 times. The rulebook says it's worth 0 points if another inn is the same column or row. Also it wouldn't have to be diagonal. 
+Yes, only possible to score it a max of 4 times. The rulebook says it's worth 0 points if another inn is in the same column or row. Also it wouldn't have to be diagonal. 
 
 ----
 Page 7
@@ -358,14 +357,14 @@ Markets score for either a row or column, but not both. Markets always score 1 p
 You can only put one cube on a factory when you build it. For the remainder of the game when somebody calls that resource, you may choose to place a different resource instead. Thus, a Factory can never contain more than one cube. But you can have multiple factories with different resources. Warehouses, however, can hold up to 3 resources.
 
 ----
-Page 7
-
-You may choose for multiple Factories to hold the same resource, but it offers you no advantage.
-
-----
 Page 4
 
 A resource can only be used to construct 1 building — in other words, every building requires all of its resources.
+
+----
+Page 7
+
+You may choose for multiple Factories to hold the same resource, but it offers you no advantage.
 
 ----
 Page 7
@@ -422,11 +421,6 @@ Page 5
 > Can you build in any color arrangement and not that on the card as long as the colors are the same?
 
 No, it has to be that exact pattern in any orientation. Rotating, flipping or mirroring the pattern is fine, but the pattern still has to be in the correct arrangement.
-
-----
-Page 4
-
-image of the 4 cubes in between each other; a blue cube, then a grey cube then a blue cube then a grey cube. This is allowed, since the configuration of the cubes matches the Chapel card.
 
 [score-sheet-clarification](https://boardgamegeek.com/thread/3165254/score-sheet-clarification)
 
@@ -550,7 +544,7 @@ For all building scoring, Barrett Castle counts as 2 Cottages and not a Monument
 
 [what-happens-when-you-run-out-of-resource-cubes](https://boardgamegeek.com/thread/2536786/what-happens-when-you-run-out-of-resource-cubes)
 
->  We were playing tiny towns as a family when my son decided to not build and hoard a resource. When it was time to call, we did called but not available. So what do we do?
+> We were playing tiny towns as a family when my son decided to not build and hoard a resource. When it was time to call, we did called but not available. So what do we do?
 
 Additional Rules From page 5 says "Resource cubes and buildings are unlimited. If you run out, substitute some other marker. Perhaps you would need to substitute that resource with something else (Maybe with other game pieces).
 
@@ -580,7 +574,7 @@ Shuffle the 15 Resource cards to form a draw pile and reveal the top 3 cards. Yo
 
 [5-banks](https://boardgamegeek.com/thread/2202189/5-banks)
 
-> What happens when you have 5 banks and are last player to pass?
+> What happens when you have 5 banks and you are last player to pass?
 
 If you have 5 Banks and are the last player still going, then you would be forced to declare your town "complete."
 This is an exception to the normal game end trigger.
